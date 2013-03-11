@@ -383,16 +383,15 @@
       "url": "http://meshing.it/companies/59759-Mesh-Labs"
     },
     {
-      "name": "Collaborative Consumption",
-      "logo_url": "http://farm9.staticflickr.com/8390/8528075070_1947d0ddb8_o.png",
-      "url": "http://collaborativeconsumption.com/"
-    },
-    {
       "name": "Fing",
       "logo_url": "http://farm9.staticflickr.com/8101/8517873523_d50b74b774_o.png",
       "url": "http://fing.org/"
     },
-
+    {
+      "name": "Collaborative Consumption",
+      "logo_url": "http://farm9.staticflickr.com/8390/8528075070_1947d0ddb8_o.png",
+      "url": "http://collaborativeconsumption.com/"
+    },
     {
       "name": "Sharelex",
       "logo_url": "http://farm9.staticflickr.com/8109/8526959245_578b37467d_o.png",

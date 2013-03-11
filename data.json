@@ -245,21 +245,6 @@
       "company": "Fing",
       "company_url": "http://fing.org",
       "twitter": "jfmarchandise"
-    },
-    {
-      "name": "Pete Lewis",
-      "photo": "http://farm9.staticflickr.com/8513/8538321119_6479f8e491_c.jpg",
-      "company": "Sparkfun Electronics",
-      "company_url": "http://www.sparkfun.com/",
-      "twitter": "sparkfun"
-    },
-    {
-      "name": "Doc Searls",
-      "photo": "http://www.id-conf.com/pics/docsearls.jpg",
-      "company": "Project VRM",
-      "company_url": "https://cyber.law.harvard.edu/projectvrm/Main_Page",
-      "twitter": "dsearls"
-    }
   ],
   "team": [
     {

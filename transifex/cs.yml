@@ -30,6 +30,7 @@ cs:
       description: "Tento třídenní festival svede dohromady globální společenství podnikatelů, projektantů, tvůrců, ekonomy, investory, politiky a občany k ání kolaborativní budoucnosti. <br/> <strong> Paříž, květen 2-3-4, 2013. </ strong>"
     '2':
       title: "Není to jen další konference o podnikání."
+      description: "Co-navržený s komunitou, bude OuiShare Fest jsou vybaveny širokou škálu hands-o činnosti a velkou živou hudbou. <br/> <strong> Dní 1-2 </ strong> budou shromažďovat 500 odborníků a veřejných činitelů. <Br/> <strong> Den 3 </strong> bude zdarma a otevřené pro veřejnost."
   topics:
     '1':
       title: "Kolaborativní Ekonomika v Evropě se rozbíhá."
@@ -48,7 +49,13 @@ cs:
       description: "tvoří základ pro vybudování udržitelných společností, pomocí otevření a demokratizací vlád, vědy, vzdělání, kultury a ekonomiky."
   contribute:
     title: "Nejen další konference o podnikání"
+    description: "Od konceptualizaci na D-day, bude OuiShare Fest  kolaborativně navržený OuiShare komunitou a svými partnery, aby se z této akce stal opravdu pravý kolaborativní zážitek."
     post: "Přidejte nápad<br/>na naší stěnu idejí"
+    codesign: "Pomozte nám<br/>kolaborativne navrhnout<br/>program"
     host: "Hostit <br/> satelitní akce"
     volunteer: "Dobrovolník<br/>pro d-day"
     sponsor: "Staňte se<br/>sponzorem"
+  register:
+    first: "<strong>OuiShare and La Fonderie</strong> jsou neziskové organizace a chtěli bychom aby každý měl možnost podílet se na Fest."
+    second: "<strong> Dny 1 a 2 </strong> jsou určeny pro <strong> profesionály </strong>, kteří se snaží dozvědět se o této nové ekonomice a vybudovat svou budoucnost. Očekávejte panely, plenární zasedání, semináře, barcamps a mnohem více. Vstupenky jsou omezené a ceny se pohybují mezi 120 a 350 eur, v závislosti na zdrojích vaší organizace a kdy si je koupit. K dispozici je omezený počet Early Bird lístků,  nečekejte na rezervaci vstupenek!<br/> Studenti, prosím <a href='mailto:hello@ouisharefest.com'>kontaktujte</ a> nás - máme nějaké slevnné vstupenky rezervovány pro vás. PS:. Jídlo, nápoje a závěrečná párt jsou v ceně."
+    third: "<strong>Den 3</strong>bude<strong>zcela zdarma</strong> a otevřený pro veřejnost. Živé crowdfunding sezení, výrobce tyto laboratoře, jak na seminářích a různých aktivit v oblasti sdílení životního stylu na hlavním konferenčním umístění, stejně jako satelitní akce po celé Paříži se nechají lidé vnímají spolupráci na ekonomiku z první ruky. Zůstaňte naladěni na programu."

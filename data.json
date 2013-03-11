@@ -355,7 +355,7 @@
     },
     {
       "name": "La Poste",
-      "logo_url": "http://farm9.staticflickr.com/8517/8517873487_f6ff212e7c_o.png",
+      "logo_url": "http://farm9.staticflickr.com/8087/8547429425_9cd36c83c8_o.png",
       "url": "http://www.laposte.fr/"
     },
     {
@@ -435,6 +435,11 @@
       "name": "Weezevent",
       "logo_url": "http://farm9.staticflickr.com/8511/8526959239_2c7a823e81_o.png",
       "url": "http://www.weezevent.com/"
+    },
+    {
+      "name": "Bedycasa",
+      "logo_url": "http://farm9.staticflickr.com/8243/8547417801_04f2a9eb13_o.png",
+      "url": "www.bedycasa.com"
     }
   ]
 }

@@ -401,6 +401,11 @@
       "name": "Collaborative Cities",
       "logo_url": "http://farm9.staticflickr.com/8507/8547417799_244c459a45_o.png",
       "url": "http://collaborative-cities.com/"
+    },
+    {
+      "name": "Open Source Hardware Association",
+      "logo_url": "",
+      "url": "http://www.oshwa.org/"
     }
   ],
   "media_partners": [
@@ -425,6 +430,11 @@
       "name": "Bedycasa",
       "logo_url": "http://farm9.staticflickr.com/8243/8547417801_04f2a9eb13_o.png",
       "url": "www.bedycasa.com"
+    },
+    {
+      "name": "Sparkfun",
+      "logo_url": "",
+      "url": "http://www.sparkfun.com/"
     }
   ]
 }

@@ -378,6 +378,11 @@
       "url": "http://p2pfoundation.net/"
     },
     {
+      "name": "Meshlabs",
+      "logo_url": "http://farm9.staticflickr.com/8528/8518985578_461a975405_o.png",
+      "url": "http://meshing.it/companies/59759-Mesh-Labs"
+    },
+    {
       "name": "Collaborative Consumption",
       "logo_url": "http://farm9.staticflickr.com/8390/8528075070_1947d0ddb8_o.png",
       "url": "http://collaborativeconsumption.com/"
@@ -387,25 +392,21 @@
       "logo_url": "http://farm9.staticflickr.com/8101/8517873523_d50b74b774_o.png",
       "url": "http://fing.org/"
     },
-    {
-      "name": "Meshlabs",
-      "logo_url": "http://farm9.staticflickr.com/8528/8518985578_461a975405_o.png",
-      "url": "http://meshing.it/companies/59759-Mesh-Labs"
-    },
+
     {
       "name": "Sharelex",
       "logo_url": "http://farm9.staticflickr.com/8109/8526959245_578b37467d_o.png",
       "url": "http://sharelex.org/"
     },
     {
-      "name": "Collaborative Cities",
-      "logo_url": "http://farm9.staticflickr.com/8507/8547417799_244c459a45_o.png",
-      "url": "http://collaborative-cities.com/"
-    },
-    {
       "name": "Open Source Hardware Association",
       "logo_url": "http://farm9.staticflickr.com/8507/8548750083_a7fe7d5b34_o.png",
       "url": "http://www.oshwa.org/"
+    }, 
+    {
+      "name": "Collaborative Cities",
+      "logo_url": "http://farm9.staticflickr.com/8507/8547417799_244c459a45_o.png",
+      "url": "http://collaborative-cities.com/"
     }
   ],
   "media_partners": [

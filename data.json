@@ -248,7 +248,7 @@
     },
     {
       "name": "Pete Lewis",
-      "photo": "http://farm9.staticflickr.com/8370/8537206158_a6795ed12e_o.jpg",
+      "photo": "http://farm9.staticflickr.com/8513/8538321119_6479f8e491_c.jpg",
       "company": "Sparkfun Electronics",
       "company_url": "http://www.sparkfun.com/",
       "twitter": "sparkfun"
@@ -354,14 +354,14 @@
       "url": "http://www.lafonderie-idf.fr/"
     },
     {
-      "name": "La Fonderie",
+      "name": "La Poste",
       "logo_url": "http://farm9.staticflickr.com/8517/8517873487_f6ff212e7c_o.png",
-      "url": "http://www.lafonderie-idf.fr/"
+      "url": "http://www.laposte.fr/"
     },
     {
-      "name": "La Fonderie",
+      "name": "La banque postal",
       "logo_url": "http://farm9.staticflickr.com/8517/8517873487_f6ff212e7c_o.png",
-      "url": "http://www.lafonderie-idf.fr/"
+      "url": "https://www.labanquepostale.fr/accueil.html"
     }
   ],
   "event_partners": [
@@ -377,7 +377,7 @@
     },
     {
       "name": "Drivy",
-      "logo_url": "http://farm9.staticflickr.com/8381/8514488412_4a4c0655f4_o.png",
+      "logo_url": "http://farm9.staticflickr.com/8373/8539410016_e0ebd867d1_o.png",
       "url": "http://www.drivy.com"
     },
     {
@@ -411,6 +411,11 @@
       "name": "Sharelex",
       "logo_url": "http://farm9.staticflickr.com/8109/8526959245_578b37467d_o.png",
       "url": "http://sharelex.org/"
+    },
+    {
+      "name": "Collaborative Cities",
+      "logo_url": "http://farm9.staticflickr.com/8109/8526959245_578b37467d_o.png",
+      "url": "http://collaborative-cities.com/"
     }
   ],
   "media_partners": [
@@ -430,11 +435,6 @@
       "name": "Weezevent",
       "logo_url": "http://farm9.staticflickr.com/8511/8526959239_2c7a823e81_o.png",
       "url": "http://www.weezevent.com/"
-    },
-    {
-      "name": "You",
-      "logo_url": "http://farm9.staticflickr.com/8391/8514488394_a497cc3760_o.jpg",
-      "url": "mailto:contribute@ouisharefest.com"
     }
   ]
 }

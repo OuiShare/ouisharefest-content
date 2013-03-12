@@ -363,14 +363,14 @@
       "url": "http://www.airbnb.com"
     },
     {
-      "name": "Leetchi",
-      "logo_url": "http://farm9.staticflickr.com/8526/8518985632_80a69ace5f_o.png",
-      "url": "http://www.leetchi.com/"
-    },
-    {
       "name": "Drivy",
       "logo_url": "http://farm9.staticflickr.com/8373/8539410016_e0ebd867d1_o.png",
       "url": "http://www.drivy.com"
+    },
+    {
+      "name": "Leetchi",
+      "logo_url": "http://farm9.staticflickr.com/8526/8518985632_80a69ace5f_o.png",
+      "url": "http://www.leetchi.com/"
     },
     {
       "name": "FaberNovel",

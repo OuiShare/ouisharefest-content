@@ -283,13 +283,6 @@
       "quote": "All together we can make this world work for everyone!"
     },
     {
-      "name": "Célya Gruson-Daniel",
-      "photo": "/img/team/Team_Celya.jpg",
-      "twitter": "Celyagd",
-      "tags": "#OpenScience #Program",
-      "quote": "If you have knowledge, let other light their candles at it. (Margaret Fuller)"
-    },
-    {
       "name": "Simone Cicero",
       "photo": "/img/team/Team_Simone.jpg",
       "twitter": "meedabyte",
@@ -323,6 +316,13 @@
       "twitter": "T_M_Arch_",
       "tags": "#CoTalk #Social #Alchemy",
       "quote": "I want to see the sparkles in their eyes!
+    },
+    {
+      "name": "Célya Gruson-Daniel",
+      "photo": "/img/team/Team_Celya.jpg",
+      "twitter": "Celyagd",
+      "tags": "#OpenScience #Program",
+      "quote": "If you have knowledge, let other light their candles at it. (Margaret Fuller)"
     },
     {
       "name": "Jean-Baptiste Roger",

@@ -49,6 +49,13 @@
       "twitter": "FrancoisTaddei"
     },
     {
+      "name": "Doc Searls",
+      "photo": "http://farm9.staticflickr.com/8506/8552523712_fed191f429_o.jpg",
+      "company": "Project VRM",
+      "company_url": "https://cyber.law.harvard.edu/projectvrm/Main_Page",
+      "twitter": "dsearls"
+    },
+    {
       "name": "Frédéric Mazzella",
       "photo": "/img/speakers/Speakers_Mazella_Frederic.jpg",
       "company": "BlaBlaCar",
@@ -238,6 +245,13 @@
       "company": "Fing",
       "company_url": "http://fing.org",
       "twitter": "jfmarchandise"
+    },
+    {
+      "name": "Pete Lewis",
+      "photo": "http://farm9.staticflickr.com/8391/8551421087_acbfa97809_o.jpg",
+      "company": "Sparkfun Electronics",
+      "company_url": "http://www.sparkfun.com/",
+      "twitter": "sparkfun"
     }],
   "team": [
     {

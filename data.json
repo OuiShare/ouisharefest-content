@@ -297,18 +297,32 @@
       "quote": "I want to make this Fest, the Fest of learning"
     },
     {
-      "name": "Tomas Mancin",
-      "photo": "/img/team/Team_Tomas.jpg",
-      "twitter": "T_M_Arch_",
-      "tags": "#CoTalk #Social #Alchemy",
-      "quote": "I want to see the sparkles in their eyes!"
-    },
-    {
       "name": "Maxime Lathuilière",
       "photo": "/img/team/maxime.jpg",
       "twitter": "maxlath",
       "tags": "#Design #Communication",
       "quote": "Your task is not to foresee the future, but to enable it” (Antoine de Saint-Exupéry)"
+    },
+    {
+      "name": "Daphne Dorpe",
+      "photo": "",
+      "twitter": "daphnedortpeu",
+      "tags": "#Logistics #Speakers #Food",
+      "quote": "Let's share our best"
+    },
+    {
+      "name": "Emmanuel Chauvin",
+      "photo": "",
+      "twitter": "EmmanuelCDK",
+      "tags": "#Logistics #Community",
+      "quote": "Ouisharefest is more fun than fun"
+    },
+    {
+      "name": "Tomas Mancin",
+      "photo": "/img/team/Team_Tomas.jpg",
+      "twitter": "T_M_Arch_",
+      "tags": "#CoTalk #Social #Alchemy",
+      "quote": "I want to see the sparkles in their eyes!
     },
     {
       "name": "Jean-Baptiste Roger",

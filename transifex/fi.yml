@@ -27,20 +27,20 @@ fi:
   about:
     '1':
       title: "Euroopan ensimmäinen yhteistyötaloudelle omistettu suurtapahtuma."
-      description: "Tämä kolmen päivän festivaali tuo yhteen yrittäjät, designerit, tekijät, ekonomistit, sijoittajat, poliitikot ja kansalaiset, jotka pyrkivät rakentamaan yhteistyölle peurstuvan tulevaisuuden. <br/><strong>Pariisissa 2-3-4 toukokuuta 2013.</strong>"
+      description: "Tämä kolmen päivän festivaali tuo yhteen yrittäjät, designerit, tekijät, ekonomistit, sijoittajat, poliitikot ja kansalaiset, jotka pyrkivät rakentamaan yhteistyölle perustuvan tulevaisuuden. <br/><strong>Pariisissa 2-3-4 toukokuuta 2013.</strong>"
     '2':
       title: "Ei mikään tavallinen bisneskonferenssi."
-      description: "Yhteisön itsensä suunnitelema OuiShare Fest sisältää paljon erilaista tekemistä ja mahtavaa live-musiikkia.<br/><strong>1-2 päivinä</strong> kokoontuu yhteen 500 ammattilaista ja toimihenkilöä.<br/><strong>3. päivä</strong> on avoin ja ilmainen yleisötapahtuma."
+      description: "Yhteisön itsensä suunnittelema OuiShare Fest sisältää paljon erilaista tekemistä ja mahtavaa live-musiikkia.<br/><strong>Päivinä 1-2</strong> kokoontuu yhteen 500 ammattilaista ja toimihenkilöä.<br/><strong>3. päivä</strong> on avoin ja ilmainen yleisötapahtuma."
   topics:
     '1':
       title: "Yhteistyötalous kasvattaa suosiotaan Euroopassa."
       description: "Tuotteiden, resurssien ja palveluiden tuotanto mullistuu yhteisöjen voimaan ja vertaistoimintaan perustuvien, avoimien vaihtoehtojen myötä."
     '2':
-      title: "Yhteiskulutus"
+      title: "Jakamistalous "
       description: "hyödyntää internetin ja vertaisverkkojen voimaa, mahdollistaen tavaroiden ja palveluiden uudenlaisen jakamisen, vuokraamisen, vaihtamisen, myymisen ja ostamisen."
     '3':
       title: "Tee-se-itse ja vertaistuotanto"
-      description: "johdataa uuteen teolliseen vallankumoukseen. Digitaaliset valmistustyökalut (3D printterit), paikallistuotantolaitokset (FabLabs) sekä avoin laitteisto demokratisoivat tuotannon."
+      description: "johdataa uuteen teolliseen vallankumoukseen. Digitaaliset valmistustyökalut (3D-printterit), paikallistuotantolaitokset (FabLabs) sekä avoin laitteisto demokratisoivat tuotannon."
     '4':
       title: "Vertaisrahoitus"
       description: "jakaa pääomaa joukkorahoituksen ja vertaislainapalvelun avulla. Arvo välittyy uudella tapaa vaihtoehtoisvaluutoiden ja lahjatalouksien kautta."
@@ -49,7 +49,7 @@ fi:
       description: "luo pohjan kestävän yhteiskunnan rakentamiselle tuomalla julkishallinnon, tieteen, opetuksen, kulttuurin ja talouden lähemmäs kansaa."
   contribute:
     title: "Ei mikään tavallinen bisneskonferenssi"
-    description: "Aina ideavaiheesta itse tapahtumaan OuiShare Fest on toteutettu yhteisön ja kumppanien toimesta, luoden todellisen yhteiskokemuksen."
+    description: "OuiShare Fest on toteutettu ideavaiheesta itse tapahtumaan asti yhteisön ja kumppanien toimesta, luoden todellisen yhteiskokemuksen."
     post: "Lähetä idea<br/>ideaseinällemme"
     codesign: "Auta meitä<br/>suunnittelemaan<br/>ohjelma"
     host: "Järjestä<br/>sivutapahtuma"

@@ -1,18 +1,18 @@
 cs:
   conf:
     name: "OuiShare Fest: třídenní festival o kolaborativní ekonomice"
-    description: "Třídenní festival spojující globální komunitu podnikatelů, projektantů, tvůrců, ekonomy, investory, politiky a občany k vybudování kolaborativní budoucnosti. Paříž, květen 2-3-4, 2013."
+    description: "Třídenní festival spojující globální komunitu podnikatelů, projektantů, tvůrců, ekonomů, investorů, politiků a občanů k vybudování kolaborativní budoucnosti. Paříž, květen 2-3-4, 2013."
   og:
     title: "OuiShare Fest: Festival Kolaborativní Ekonomiky"
-    description: "Třídenní festival spojující globální komunitu podnikatelů, projektantů, tvůrců, ekonomy, investory, politiky a občany k vybudování kolaborativní budoucnosti. Paříž, květen 2-3-4, 2013."
+    description: "Třídenní festival spojující globální komunitu podnikatelů, projektantů, tvůrců, ekonomů, investorů, politiků a občanů k vybudování kolaborativní budoucnosti. Paříž, květen 2-3-4, 2013."
   sections:
-    about: "O festivalu"
+    about: "O Festu"
     topics: "Témata"
     speakers: "Řečníci"
     program: "Program"
     partners: "Partneři"
     team: "Tým"
-    location: "Místo konání"
+    location: "Místo"
     contribute: "Přispět"
     register: "Registrace"
   partners:
@@ -27,19 +27,19 @@ cs:
   about:
     '1':
       title: "První velká Evropská akce věnovaná kolaborativní ekonomice."
-      description: "Tento třídenní festival svede dohromady globální společenství podnikatelů, projektantů, tvůrců, ekonomy, investory, politiky a občany k ání kolaborativní budoucnosti. <br/> <strong> Paříž, květen 2-3-4, 2013. </ strong>"
+      description: "Tento třídenní festival svede dohromady globální komunitu podnikatelů, projektantů, tvůrců, ekonomů, investorů, politiků a občanů k vybudování kolaborativní budoucnosti. <br/> <strong> Paříž, květen 2-3-4, 2013. </ strong>"
     '2':
-      title: "Není to jen další konference o podnikání."
-      description: "Co-navržený s komunitou, bude OuiShare Fest jsou vybaveny širokou škálu hands-o činnosti a velkou živou hudbou. <br/> <strong> Dní 1-2 </ strong> budou shromažďovat 500 odborníků a veřejných činitelů. <Br/> <strong> Den 3 </strong> bude zdarma a otevřené pro veřejnost."
+      title: "Nejen další konference o podnikání."
+      description: "Co-navržený s komunitou, OuiShare Fest bude obsahovat širokou škálu praktických činností a skvělé živé hudby. <br/> <strong> Dny 1-2 </ strong> se sejde 500 odborníků a veřejných činitelů. <Br/> <strong> Den 3 </strong> bude zdarma a otevřený pro veřejnost."
   topics:
     '1':
       title: "Kolaborativní Ekonomika v Evropě se rozbíhá."
-      description: "Nespočetné kolaborativní, peer-to-peer, a otevřené alternativy objevují způsob, jakým vyrábíme a používáme zboží, zdroje a služby, využitím síly komunit."
+      description: "Nespočetné kolaborativní, peer-to-peer, a otevřené alternativy znovu objevují způsob, jakým vyrábíme a používáme zboží, zdroje a služby, využitím síly komunit."
     '2':
       title: "Kolaborativní Spotřeba"
       description: "využívá sílu internetu a peer-to-peer sítí ke znovu vynalézt jak sdílíme, pronajímáme, vyměníme nebo obchodujeme zboží a služby."
     '3':
-      title: "Makers a Vrstevnícká Výroba"
+      title: "Makers a Peer Výroba"
       description: "uváději novou průmyslovou revoluci. Výroba je demokratizována prostřednictvím digitální výrobní nástroji (3D tiskárny), místní výrobní zařízení (FabLabs) a sdílení open source návrhů hardwaru."
     '4':
       title: "Finance Peer-to-Peer"
@@ -49,13 +49,13 @@ cs:
       description: "tvoří základ pro vybudování udržitelných společností, pomocí otevření a demokratizací vlád, vědy, vzdělání, kultury a ekonomiky."
   contribute:
     title: "Nejen další konference o podnikání"
-    description: "Od konceptualizaci na D-day, bude OuiShare Fest  kolaborativně navržený OuiShare komunitou a svými partnery, aby se z této akce stal opravdu pravý kolaborativní zážitek."
+    description: "Od konceptualizaci na d-day, bude OuiShare Fest  kolaborativně navržený OuiShare komunitou a svými partnery, aby se z této akce stal pravý kolaborativní zážitek."
     post: "Přidejte nápad<br/>na naší stěnu idejí"
     codesign: "Pomozte nám<br/>kolaborativne navrhnout<br/>program"
     host: "Hostit <br/> satelitní akce"
-    volunteer: "Dobrovolník<br/>pro d-day"
+    volunteer: "Být dobrovolníkem<br/>pro d-day"
     sponsor: "Staňte se<br/>sponzorem"
   register:
     first: "<strong>OuiShare and La Fonderie</strong> jsou neziskové organizace a chtěli bychom aby každý měl možnost podílet se na Fest."
-    second: "<strong> Dny 1 a 2 </strong> jsou určeny pro <strong> profesionály </strong>, kteří se snaží dozvědět se o této nové ekonomice a vybudovat svou budoucnost. Očekávejte panely, plenární zasedání, semináře, barcamps a mnohem více. Vstupenky jsou omezené a ceny se pohybují mezi 120 a 350 eur, v závislosti na zdrojích vaší organizace a kdy si je koupit. K dispozici je omezený počet Early Bird lístků,  nečekejte na rezervaci vstupenek!<br/> Studenti, prosím <a href='mailto:hello@ouisharefest.com'>kontaktujte</ a> nás - máme nějaké slevnné vstupenky rezervovány pro vás. PS:. Jídlo, nápoje a závěrečná párt jsou v ceně."
-    third: "<strong>Den 3</strong>bude<strong>zcela zdarma</strong> a otevřený pro veřejnost. Živé crowdfunding sezení, výrobce tyto laboratoře, jak na seminářích a různých aktivit v oblasti sdílení životního stylu na hlavním konferenčním umístění, stejně jako satelitní akce po celé Paříži se nechají lidé vnímají spolupráci na ekonomiku z první ruky. Zůstaňte naladěni na programu."
+    second: "<strong>Dny 1 a 2</strong>jsou určeny pro<strong profesionály</strong>, kteří se chtějí dozvědět o této nové ekonomice a vybudovat společně svou budoucnost. Očekávejte panely, plenární zasedání, semináře, barcamps a mnohem více. Vstupenky jsou omezené a ceny se pohybují mezi 120 a 350 eur, v závislosti na zdrojích vaší organizace a kdy je koupíte. K dispozici je omezený počet Early Bird lístků, nečekejte na rezervaci vstupenek!<br/> Studenti, prosím <a href='mailto:hello@ouisharefest.com'>kontaktujte</ a> nás - máme nějaké slevněné vstupenky rezervovány pro vás. PS:. Jídlo, nápoje a závěrečná párty jsou v ceně."
+    third: "<strong>Den 3</strong>bude<strong>zcela zdarma</strong>a otevřený pro veřejnost. Živé crowdfunding sessions, laboratoře makerů, how-to workshopy a různé aktivity o životním stylu sdílení na hlavním konferenčním místě, stejně jako satelitní akce po celé Paříži umožní lidi zažít kolaborativní ekonomiku z první ruky. Zůstaňte naladěni pro více o programu."

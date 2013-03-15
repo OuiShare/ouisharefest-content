@@ -416,9 +416,9 @@
       "url": "http://meshing.it/companies/59759-Mesh-Labs"
     },
     {
-      "name": "Fing",
-      "logo_url": "http://farm9.staticflickr.com/8101/8517873523_d50b74b774_o.png",
-      "url": "http://fing.org/"
+      "name": "Open Knowledge Foundation",
+      "logo_url": "http://farm9.staticflickr.com/8104/8560151168_254d1aee20_o.png",
+      "url": "http://okfn.org/"
     },
     {
       "name": "Collaborative Consumption",
@@ -436,14 +436,14 @@
       "url": "http://www.oshwa.org/"
     }, 
     {
+      "name": "Fing",
+      "logo_url": "http://farm9.staticflickr.com/8101/8517873523_d50b74b774_o.png",
+      "url": "http://fing.org/"
+    },
+    {
       "name": "Collaborative Cities",
       "logo_url": "http://farm9.staticflickr.com/8507/8547417799_244c459a45_o.png",
       "url": "http://collaborative-cities.com/"
-    },
-    {
-      "name": "Open Knowledge Foundation",
-      "logo_url": "http://farm9.staticflickr.com/8104/8560151168_254d1aee20_o.png",
-      "url": "http://okfn.org/"
     }
   ],
   "media_partners": [

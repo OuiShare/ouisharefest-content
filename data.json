@@ -460,6 +460,11 @@
       "url": "http://www.shareable.net/"
     },
     {
+      "name": "Deskmag",
+      "logo_url": "http://farm9.staticflickr.com/8524/8526959277_d73c002cc3_o.png",
+      "url": "http://deskmag.com"
+    },
+    {
       "name": "Yorokobu",
       "logo_url": "http://farm9.staticflickr.com/8391/8556167212_47a08660b9_o.png",
       "url": "http://www.yorokobu.es/"
@@ -468,11 +473,6 @@
       "name": "WeDemain",
       "logo_url": "http://farm9.staticflickr.com/8519/8568144081_e950133ef8_o.png",
       "url": "http://www.wedemain.fr/"
-    },
-    {
-      "name": "Deskmag",
-      "logo_url": "http://farm9.staticflickr.com/8524/8526959277_d73c002cc3_o.png",
-      "url": "http://deskmag.com"
     }
   ],
   "supporters": [

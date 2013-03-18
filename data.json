@@ -150,6 +150,7 @@
       "photo": "/img/speakers/Speakers_Nghiem_Thanh.jpg",
       "company": "MoviLab",
       "company_url": "http://movilab.eu/"
+      "twitter": "thanh_nghiem"
     },
     {
       "name": "Mar Alarcon",
@@ -353,6 +354,13 @@
       "twitter": "helenepouille",
       "tags": "#Program #Day3",
       "quote": "It's up to us to use the Internet the smartest way: the sharing one!"
+    },
+    {
+      "name": "Maeva Tordo",
+      "photo": "http://farm9.staticflickr.com/8102/8570338716_0bac12f024_q.jpg",
+      "twitter": "maevabien",
+      "tags": "#Experience #Play",
+      "quote": "Dare it, Shake it, Share it ! ***"
     },
     {
       "name": "Jean-Baptiste Roger",

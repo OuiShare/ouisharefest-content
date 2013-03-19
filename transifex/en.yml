@@ -9,14 +9,13 @@ en:
     about: "About"
     topics: "Topics"
     speakers: "Speakers"
+    facilitators: "Facilitators"
     program: "Program"
     partners: "Partners"
     team: "Team"
     location: "Location"
     contribute: "Contribute"
     register: "Register"
-  speakers:
-    facilitators: "Facilitators"
   partners:
     event: "Event Partners"
     media: "Media Partners"

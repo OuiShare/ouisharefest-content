@@ -4,6 +4,7 @@ sv:
     description: "En tredagars festival som för samman entreprenörer, designers, ekonomer, investerare, politiker och medborgare från hela världen. Tillsammans bygger vi en framtid baserad på gemensam konsumtion. Paris, 2-3-4 maj 2013."
   og:
     title: "OuiShare Fest: En festival om delandets ekonomi."
+    description: "En tredagars festival som för samman entreprenörer, designers, ekonomer, investerare, politiker och medborgare från hela världen. Tillsammans bygger vi en framtid baserad på gemensam konsumtion. Paris, 2-3-4 maj 2013."
   sections:
     about: "Om"
     topics: "Ämnen"
@@ -13,5 +14,19 @@ sv:
     location: "Plats"
     contribute: "Delta"
     register: "Anmäl dig"
+  team:
+    intro: "OuiShare är ett öppet världsomspännande community med människor som arbetar för och med delandets ekonomi (på engelska \"collaborative economy\"). Vi är entreprenörer, designers, ekonomer, investerare, politiker och medborgare <strong>med mera</strong>.<br/>Läs mer om oss på"
+    design: "Design"
+    development: "Utveckling"
   location:
+    title: "Följ med oss till den här magiska platsen"
     paris: "Paris"
+  about:
+    '1':
+      title: "Det första stora europeiska eventet tillägnat delandets ekonomi."
+      description: "Den här tredagsfestivalen kommer föra samman ett världsomspännande community av entreprenörer, designers, ekonomer, investerare, politiker och medborgare för att tillsammans bygga en framtid baserad på delande. <br/><strong>Paris, 2-3-4 maj, 2013.</strong>"
+    '2':
+      title: "Det här är inte ännu en företagskonferens. "
+  topics:
+    '1':
+      title: "Delandets ekonomi i Europa börjar nå en kritisk massa."

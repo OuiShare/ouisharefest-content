@@ -15,7 +15,13 @@ en:
     location: "Location"
     contribute: "Contribute"
     register: "Register"
+  speakers:
+    facilitators: "Facilitators"
   partners:
+    event: "Event Partners"
+    media: "Media Partners"
+    program: "Program Partners"
+    supporters: "Supporters"
     invitation: "If you would like to become a partner,<br/>please contact us at <span class='contact'><a href='mailto:contribute@ouisharefest.com'>contribute@ouisharefest.com</a></span>"
   team:
     intro: "OuiShare is an open global community of people working to accelerate the shift towards a collaborative economy. We are entrepreneurs, designers, makers, researchers, public officials, citizens and <strong>more</strong>.<br/>Find out more about us on"

@@ -12,7 +12,7 @@
       "facebook": "http://ouisharefest.com/img/logo_mobile.jpg"
     }
   },
-  "schedule": [
+  "speakers": [
     {
       "name": "Michel Bauwens",
       "photo": "/img/speakers/Speakers_Bauwens_Michel.jpg",
@@ -96,13 +96,6 @@
       "company": "Gidsy",
       "company_url": "http://gidsy.com/",
       "twitter": "edial"
-    },
-    {
-      "name": "April Rinne",
-      "photo": "/img/speakers/rinne.jpg",
-      "company": "Collaborative Lab",
-      "company_url": "http://cclab.collaborativeconsumption.com",
-      "twitter": "aprilrinne"
     },
     {
       "name": "Thomas Lommée",
@@ -256,7 +249,15 @@
       "company_url": "http://www.sparkfun.com/",
       "twitter": "sparkfun"
     }],
-  "team": [
+    "facilitators": [
+    {
+      "name": "April Rinne",
+      "photo": "/img/speakers/rinne.jpg",
+      "company": "Collaborative Lab",
+      "company_url": "http://cclab.collaborativeconsumption.com",
+      "twitter": "aprilrinne"
+    }],
+    "team": [
     {
       "name": "Flore Berlingen",
       "photo": "/img/team/Team_Flore.jpg",

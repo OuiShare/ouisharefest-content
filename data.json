@@ -98,6 +98,13 @@
       "twitter": "edial"
     },
     {
+      "name": "April Rinne",
+      "photo": "/img/speakers/rinne.jpg",
+      "company": "Collaborative Lab",
+      "company_url": "http://cclab.collaborativeconsumption.com",
+      "twitter": "aprilrinne"
+    },
+    {
       "name": "Thomas Lommée",
       "photo": "/img/speakers/Speakers_Lommee_Thomas.jpg",
       "company": "OpenStructures",
@@ -255,14 +262,6 @@
       "company": "Sparkfun Electronics",
       "company_url": "http://www.sparkfun.com/",
       "twitter": "sparkfun"
-    }],
-    "facilitators": [
-    {
-      "name": "April Rinne",
-      "photo": "/img/speakers/rinne.jpg",
-      "company": "Collaborative Lab",
-      "company_url": "http://cclab.collaborativeconsumption.com",
-      "twitter": "aprilrinne"
     }],
     "team": [
     {

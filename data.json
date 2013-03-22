@@ -261,7 +261,14 @@
       "photo": "http://farm9.staticflickr.com/8244/8551874949_4aa0dd90f3_q.jpg",
       "company": "Sparkfun Electronics",
       "company_url": "http://www.sparkfun.com/",
-      "twitter": "sparkfun"
+      "twitter": "sparkfun"   
+    },
+    {
+      "name": "Pawl Sroczynski",
+      "photo": "http://farm9.staticflickr.com/8381/8580780288_9e5e03d6ac_q.jpg",
+      "company": "Cohabitat Group",
+      "company_url": "http://www.cohabitat.net/",
+      "twitter": ""
     }],
     "team": [
     {

@@ -16,6 +16,8 @@ en:
     location: "Location"
     contribute: "Contribute"
     register: "Register"
+  speakers:
+    heading: "Speakers & Facilitators"
   partners:
     event: "Event Partners"
     media: "Media Partners"

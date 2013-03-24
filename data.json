@@ -42,11 +42,11 @@
       "twitter": "arsindustrialis"
     },
     {
-      "name": "François Taddei",
-      "photo": "/img/speakers/Speakers_Taddei_Francois.jpg",
-      "company": "CRI",
-      "company_url": "http://www.cri-paris.org/en/cri/",
-      "twitter": "FrancoisTaddei"
+      "name": "Dale Dougherty",
+      "photo": "http://farm9.staticflickr.com/8372/8586536556_68106bb1df_q.jpg",
+      "company": "Make Magazine",
+      "company_url": "http://makezine.com/",
+      "twitter": "dalepd"
     },
     {
       "name": "Doc Searls",
@@ -105,10 +105,11 @@
       "twitter": "aprilrinne"
     },
     {
-      "name": "Thomas Lommée",
-      "photo": "/img/speakers/Speakers_Lommee_Thomas.jpg",
-      "company": "OpenStructures",
-      "company_url": "http://www.openstructures.net/"
+      "name": "François Taddei",
+      "photo": "/img/speakers/Speakers_Taddei_Francois.jpg",
+      "company": "CRI",
+      "company_url": "http://www.cri-paris.org/en/cri/",
+      "twitter": "FrancoisTaddei"
     },
     {
       "name": "Cédric Giorgi",

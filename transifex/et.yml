@@ -9,7 +9,6 @@ et:
     about: "Meist"
     topics: "Teemad"
     speakers: "Esinejad"
-    facilitators: "Kaasaaitajad"
     program: "Programm"
     partners: "Partnerid"
     team: "Meeskond"
@@ -17,10 +16,6 @@ et:
     contribute: "Aita kaasa"
     register: "Registreeri"
   partners:
-    event: "Ürituse Partnerid"
-    media: "Meedia Partnerid"
-    program: "Programmi Partnerid"
-    supporters: "Toetajad"
     invitation: "Kui sa soovid partneriks hakata,<br/>võta meiega ühendust <span class='contact'><a href='mailto:contribute@ouisharefest.com'>contribute@ouisharefest.com</a></span>"
   team:
     intro: "OuiShare on avatud üleilmne kogukond, kes töötab koostöömajanduse tekkimise ja arengu kiirendamise nimel. Me oleme ettevõtjad, tootjad, teadlased, ametnikud, kodanikud ja <strong>veel enamgi</strong>.<br/>Leia meie kohta rohkem:"

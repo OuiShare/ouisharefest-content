@@ -287,7 +287,22 @@
       "company": "Cocoon Projects",
       "company_url": "http://cocoonprojects.com",
       "twitter": "ShiverTweet"
-    }],
+    },
+    {
+      "name": "Daniel Harris",
+      "photo": "http://farm9.staticflickr.com/8386/8589225983_15ba4c602e_q.jpg",
+      "company": "Vision to Reality Foundation",
+      "company_url": "http://www.v2rf.org/",
+      "twitter": "dahacouk"
+    },
+    {
+      "name": "Alberto Brandolini",
+      "photo": "http://farm9.staticflickr.com/8523/8595900602_59afb360dd_q.jpg",
+      "company": "Avanscoperta",
+      "company_url": " http://www.avanscoperta.it/en/",
+      "twitter": "ziobrando"
+    }
+   ],
     "team": [
     {
       "name": "Flore Berlingen",

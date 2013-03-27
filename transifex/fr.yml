@@ -9,20 +9,26 @@ fr:
     about: "Le Fest"
     topics: "Thèmes"
     speakers: "Intervenants"
+    facilitators: "Modérateurs"
     program: "Programme"
     partners: "Partenaires"
     team: "Équipe"
     location: "Lieu"
     contribute: "Contribuer"
     register: "S'inscrire"
+  speakers:
+    heading: "Intervenants et Modérateurs"
   partners:
+    event: "Partenaires de l'évènement"
+    media: "Partenaires Média"
+    program: "Partenaires programmation"
     invitation: "Vous souhaitez devenir partenaire du OuiShare Fest ?<br/>Ecrivez-nous à<span class='contact'><a href='mailto:contribute@ouisharefest.com'>contribute@ouisharefest.com</a></span>"
   team:
     intro: "OuiShare est une communauté ouverte internationale composée de passionnés (entrepreneurs, designers, makers, chercheurs, décideurs publics, citoyens, et bien d'autres) qui oeuvrent pour le développement de l’économie collaborative.</br>Pour en savoir plus :"
     design: "Design"
     development: "Development"
   location:
-    title: "Rejoignez nous dans ce lieu magique."
+    title: "Rejoignez-nous dans ce lieu magique."
     paris: "Paris"
   about:
     '1':
@@ -59,3 +65,4 @@ fr:
     first: "<strong>OuiShare et La Fonderie</strong> sont des associations à but non lucratif. Nous souhaitons que chacun soit en mesure de participer au Fest."
     second: "<strong>Les deux premières journées</strong> sont destinées aux <strong>professionnels</strong> qui souhaitent en savoir plus sur cette nouvelle économie et construire ensemble son avenir au travers de tables rondes, sessions plénières, ateliers, barcamps, etc. Le prix des billets est compris entre 120 et 350 euros, selon les ressources de votre organisation et la promptitude de votre achat. Le nombre de billets “Early Bird” est limité, ne tardez pas à réserver le vôtre ! Les repas, boissons et participation à la soirée de clôture sont inclus dans le prix du billet.<br/>Etudiants, nous avons quelques places à prix réduit. <a href='mailto:hello@ouisharefest.com'>Contactez-nous</a>au plus tôt.  "
     third: "<strong>La troisième journée</strong> sera <strong>totalement gratuite</strong> et ouverte au public, avec une succession d’activités permettant de découvrir et expérimenter l’économie et les modes de vie collaboratifs. Les ateliers pratiques, fablabs éphémères, sessions de live-crowdfunding et autres démonstrations se tiendront au Cabaret Sauvage, le lieu principal du festival, mais aussi aux quatre coins de Paris et d’Île-de-France. Restez à l’écoute pour connaître le programme au plus tôt."
+    participants: "Invités confirmés"

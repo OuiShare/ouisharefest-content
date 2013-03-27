@@ -15,7 +15,13 @@ de:
     location: "Wo"
     contribute: "Mitmachen"
     register: "Tickets"
+  speakers:
+    heading: "Speaker & Unterstützer"
   partners:
+    event: "Eventpartner"
+    media: "Medienpartner"
+    program: "Programmpartner"
+    supporters: "Unterstützer"
     invitation: "Wenn Sie ein Partner werden möchten, <br/> kontaktieren Sie uns bitte unter <span class='contact'><a href='mailto:contribute@ouisharefest.com'>contribute@ouisharefest.com</a></span>"
   team:
     intro: "OuiShare ist eine globale Gemeinschaft von Menschen, die den Übergang zur Collaborative Economy unterstützen. Wir sind Unternehmer, Designer, Ökonomen, Investoren, Politiker, Bürger und mehr. <strong>anderen</strong>.<br/> Lesen Sie mehr über uns auf"
@@ -56,6 +62,7 @@ de:
     volunteer: "Helfe am Festivaltag mit"
     sponsor: "Werde Sponsor"
   register:
-    first: "<strong>OuiShare und La Fonderie</strong> sind Non-Profit Organisationen. Wir möchten es jedem ermöglichen, an der Konferenz teilzunehmen. "
-    second: "<strong> Die ersten zwei Tage</strong> sind für <strong>Experten</strong> bestimmt, um die Ökonomie des Teilens zu erforschen und die Zukunft dieser neuen Wirtschaftsform gemeinsam zu gestalten. Auf dem Programm stehen Panels und Plenarsitzungen mit inspirierenden Referenten sowie Workshops \nund Barcamps. Die Anzahl der Teilnehmer ist begrenzt und Tickets kosten zwischen 120 und 350 Euro. Der Preis hängt von den Mitteln Ihrer Organisation und dem Zeitpunkt des Ticketerwerbs ab. Die Anzahl von Frühbuchertickets ist begrenzt, also warten Sie mit der Buchung nicht zu lange! <br/>Studenten, bitte meldet <a href='mailto:hello@ouisharefest.com'> </a>bei uns, denn für euch haben wir ermäßigte Tickets reserviert. PS: Essen, Getränke und eine große Party am Ende der Veranstaltung sind im Preis enthalten."
-    third: "<strong>Tag 3</strong> ist <strong>kostenlos</strong> und der Öffentlichkeit gewidmet. Es wird Live-Crowdfunding-Sessions, Makers Labs, How-To Workshops und andere Aktionen rund um den Lebensstil des Teilens geben, die am Hauptstandort der Konferenz und als Satellitveranstaltungen in ganz Paris stattfinden werden. Dabei sollen die Besucher die Collaborative Economy hautnah erfahren. Mehr Information zum Programm gibt es bald. "
+    first: "<strong>Tage 1 und 2 </strong> richten sich an Experten, Politiker und Beamte."
+    second: "<strong> Der dritte Tag </strong> ist kostenlos und einer breiten Öffentlichkeit gewidmet. "
+    third: "Studenten, bitte <a href='mailto:hello@ouisharefest.com'>meldet euch </a> bei uns, wir haben für euch einige vergünstigte Tickets reserviert. "
+    participants: "Wer schon kommt"

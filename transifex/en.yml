@@ -29,8 +29,8 @@ en:
     design: "Design"
     development: "Development"
   location:
-    title: "Join us, at the <a href='http://www.cabaretsauvage.com/' target='_blank'>Cabaret Sauvage</a> in Paris"
-    title2: "Need help with travel and accomodation?"
+    title_first: "Join us, at the <a href='http://www.cabaretsauvage.com/' target='_blank'>Cabaret Sauvage</a> in Paris"
+    title_second: "Need help with travel and accomodation?"
     description: "You can find all you need to know about travelling to OuiShare Fest in this <a href='http://tiny.cc/fest-travel-post' target='_blank'>blog post</a>"
   about:
     1:

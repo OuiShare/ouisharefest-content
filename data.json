@@ -304,6 +304,13 @@
       "company": "Avanscoperta",
       "company_url": " http://www.avanscoperta.it/en/",
       "twitter": "ziobrando"
+    },
+    {
+      "name": "Peter Troxler",
+      "photo": "http://farm9.staticflickr.com/8535/8610398311_7bd8c26e1e_q.jpg
+      "company": "Rotterdam University",
+      "company_url": " http://petertroxler.net/",
+      "twitter": "trox"
     }
   ],
     "team": [
@@ -540,6 +547,11 @@
       "name": "Silicon Sentier",
       "logo_url": "http://farm9.staticflickr.com/8391/8601723965_fcb8cff205_o.png",
       "url": "http://siliconsentier.org/"
+    },
+    {
+      "name": "Without Model",
+      "logo_url": "http://farm9.staticflickr.com/8397/8610399069_b1308d641f_o.png",
+      "url": "http://www.withoutmodel.com/home.php"
     }
   ],
   "media_partners": [

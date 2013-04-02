@@ -118,6 +118,13 @@
       "twitter": "FrancoisTaddei"
     },
     {
+      "name": "Arun Sundararajan",
+      "photo": "http://farm9.staticflickr.com/8239/8613103987_9f2e9db166_q.jpg",
+      "company": "NYU",
+      "company_url": "http://www.stern.nyu.edu/faculty/bio/arun-sundararajan",
+      "twitter": "Digitalarun"
+    },
+    {
       "name": "Cédric Giorgi",
       "photo": "/img/speakers/speakers_Giorgi_Cedric.jpg",
       "company": "Cookening",
@@ -318,6 +325,13 @@
       "company": "Let's do it! World",
       "company_url": "http://letsdoitworld.org",
       "twitter": "henri37"
+    },
+    {
+      "name": "Alastair Parvina",
+      "photo": "http://farm9.staticflickr.com/8525/8613103975_33b67d7a6f_q.jpg",
+      "company": "Wikihouse",
+      "company_url": "http://www.wikihouse.cc/",
+      "twitter": "AlastairParvin"
     }
   ],
     "team": [

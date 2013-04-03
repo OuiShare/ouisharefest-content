@@ -332,6 +332,13 @@
       "company": "Wikihouse",
       "company_url": "http://www.wikihouse.cc/",
       "twitter": "AlastairParvin"
+    },
+    {
+      "name": "Connor McEwen",
+      "photo": "http://farm9.staticflickr.com/8404/8617045400_c14a88e023_q.jpg",
+      "company": "Credport",
+      "company_url": "http://www.credport.org/",
+      "twitter": "connormcewen"
     }
   ],
     "team": [
@@ -605,6 +612,11 @@
       "name": "Usbek & Rica",
       "logo_url": "http://farm9.staticflickr.com/8513/8599642227_8f019af025_o.png",
       "url": "http://usbek-et-rica.fr/"
+    },
+    {
+      "name": "Creative NRW",
+      "logo_url": "http://farm9.staticflickr.com/8398/8617045634_80e729463e_o.png",
+      "url": "creative.nrw.de"
     }
   ],
   "supporters": [

@@ -16,6 +16,7 @@ en:
     location: "Location"
     contribute: "Contribute"
     register: "Tickets"
+    participate: "Participate"
   speakers:
     heading: "Speakers & Facilitators"
   partners:

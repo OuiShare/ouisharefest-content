@@ -8,15 +8,14 @@ en:
   sections:
     about: "About"
     topics: "Topics"
+    program: "Program"
     speakers: "Speakers"
     facilitators: "Facilitators"
-    program: "Program"
     partners: "Partners"
     team: "Team"
     location: "Location"
-    contribute: "Contribute"
-    register: "Tickets"
     participate: "Participate"
+    tickets: "Tickets"
   speakers:
     heading: "Speakers & Facilitators"
   partners:
@@ -65,12 +64,12 @@ en:
     volunteer: "Volunteer<br/>For d-day"
     sponsor: "Become<br/>a sponsor"
   participate:
-    first: "<strong>Days 1 and 2</strong> are dedicated to professionals and public officials"
-    second: "<strong>Day 3</strong> is free and open to the public"
-    participants: "Who's already coming"
-    tickets: "Tickets"
     awards: "OuiShare Fest Awards"
     share_with: "Share with other attendees"
     visit_community_link: "See what people need and can offer on our OuiShare Fest sharing platform"
     awards_description: "A series of prizes to honor projects and startups from the collaborative economy and raise awareness for the <a href='http://ouishare.net/about/our-values/'>values</a> of the OuiShare community."
     book_tickets: "Book your tickets now!"
+  tickets:
+    first: "<strong>Days 1 and 2</strong> are dedicated to professionals and public officials"
+    second: "<strong>Day 3</strong> is free and open to the public"
+    participants: "Who's already coming"

@@ -306,6 +306,13 @@
       "twitter": "dahacouk"
     },
     {
+      "name": "Stefania Druga",
+      "photo": "http://farm9.staticflickr.com/8100/8629625636_0a2ed25e72_q.jpg",
+      "company": "Hackidemia",
+      "company_url": "http://www.hackidemia.com/",
+      "twitter": "Stefania_druga"
+    },
+    {
       "name": "Alberto Brandolini",
       "photo": "http://farm9.staticflickr.com/8089/8598874564_61e3c085a4_q.jpg",
       "company": "Avanscoperta",
@@ -339,6 +346,13 @@
       "company": "Credport",
       "company_url": "http://www.credport.org/",
       "twitter": "connormcewen"
+    },
+    {
+      "name": "Kasper Souren",
+      "photo": "http://farm9.staticflickr.com/8394/8628507597_5fe2c76712_q.jpg",
+      "company": "Nomadbase",
+      "company_url": "http://nomadbase.org",
+      "twitter": "guaka"
     }
   ],
     "team": [
@@ -503,6 +517,11 @@
       "name": "Leetchi",
       "logo_url": "http://farm9.staticflickr.com/8526/8518985632_80a69ace5f_o.png",
       "url": "http://www.leetchi.com/"
+    },
+     {
+      "name": "BlaBlaCar",
+      "logo_url": "http://farm9.staticflickr.com/8116/8628507587_178b88ac65_o.png",
+      "url": "http://www.blablacar.com/"
     },
     {
       "name": "FaberNovel",

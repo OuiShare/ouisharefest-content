@@ -64,8 +64,10 @@ en:
     volunteer: "Volunteer<br/>For d-day"
     sponsor: "Become<br/>a sponsor"
   participate:
-    share: "See what people need and can offer on our OuiShare Fest sharing platform."
-    awards: "A series of prizes to honor projects and startups from the collaborative economy and raise awareness for the values of the OuiShare community."
+    awards: "OuiShare Fest Awards"
+    share_with: "Share with other attendees"
+    visit_community_link: "See what people need and can offer on our OuiShare Fest sharing platform"
+    awards_description: "A series of prizes to honor projects and startups from the collaborative economy and raise awareness for the <a href='http://ouishare.net/about/our-values/'>values</a> of the OuiShare community."
   tickets:
     first: "<strong>Days 1 and 2</strong> are dedicated to professionals and public officials"
     second: "<strong>Day 3</strong> is free and open to the public"

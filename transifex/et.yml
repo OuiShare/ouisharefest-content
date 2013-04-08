@@ -16,6 +16,8 @@ et:
     location: "Asukoht"
     contribute: "Aita kaasa"
     register: "Registreeri"
+  speakers:
+    heading: "Esinejad ja kaasaaitajad"
   partners:
     event: "Ürituse Partnerid"
     media: "Meedia Partnerid"
@@ -27,8 +29,9 @@ et:
     design: "Disain"
     development: "Arendus"
   location:
-    title: "Ühine meiega siin maagilises kohas"
-    paris: "Pariis"
+    title_first: "Liitu meiega <a href='http://www.cabaretsauvage.com/' target='_blank'>Cabaret Sauvage</a>'is Pariisis"
+    title_second: "Vajad abi kohalejõudmise ja majutusega?"
+    description: "Info OuiShare Festile reisimise kohta leiad siit <a href='http://tiny.cc/fest-travel-post' target='_blank'>blogi postitusest</a>"
   about:
     '1':
       title: "Esimene suurem üle-Euroopaline üritus, mis on pühendatud koostöömajandusele."
@@ -64,3 +67,4 @@ et:
     first: "<strong>OuiShare and La Fonderie</strong> on mittetulundusühingud ja me sooviksime, et kõik saaksid festivalil osaleda."
     second: "<strong>Esimene ja teine päev</strong> on <strong>spetsialistidele</strong>, kes tahavad seda uut majandust õppida ja selle tulevikku koos ehitada. Toimuvad paneelid, täiskogu istungid, töötoad ja palju muud. Pileteid on piiratud koguses ja hinnad on 120 kuni 350 eurot sõltuvalt teie ettevõtte ressurssidest ja sellest, millal piletid ostetakse. On piiratud arv varaseid odavaid pileteid, nii et ära oota enda oma ostmisega!<br/>Õpilased, palun <a href='mailto:hello@ouisharefest.com'>võtke meiega ühendust</a> - meil on mõned sooduspiletid reserveeritud. PS.: Toit, joogid ja lõpupidu on hinna sees."
     third: "<strong>Kolmas päev</strong> on <strong>täiesti tasuta</strong> ja mõeldud ka avalikkusele. Kohapealsed ühisrahastamise sessioonid, töötoad ja mitmed elustiili jagamist propageerivad tegevused konverentsi põhiasukohas ja satelliitüritused üle Pariisi lasevad inimestel kogeda koostöömajandust vahetult sealsamas. Varsti teeme ka ürituse kava teatavaks."
+    participants: "Kes on juba tulemas"

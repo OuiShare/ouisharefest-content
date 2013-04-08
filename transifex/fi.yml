@@ -21,9 +21,6 @@ fi:
     intro: "<strong>OuiShare on avoin maailmanlaajuinen yhteisö ihmisille, jotka pyrkivät vauhdittamaan siirtymistä yhteistyötalouteen. Olemme yrittäjiä, designereita, tekijöitä, tutkijoita, virkamiehiä ja kansalaisia. </strong><br/>Lisätietoa:"
     design: "Suunnittelu"
     development: "Toteutus"
-  location:
-    title: "Tule kanssamme tähän taianomaiseen paikkaan"
-    paris: "Pariisi"
   about:
     '1':
       title: "Euroopan ensimmäinen yhteistyötaloudelle omistettu suurtapahtuma."

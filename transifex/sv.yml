@@ -18,9 +18,6 @@ sv:
     intro: "OuiShare är ett öppet världsomspännande community med människor som arbetar för och med delandets ekonomi (på engelska \"collaborative economy\"). Vi är entreprenörer, designers, ekonomer, investerare, politiker och medborgare <strong>med mera</strong>.<br/>Läs mer om oss på"
     design: "Design"
     development: "Utveckling"
-  location:
-    title: "Följ med oss till den här magiska platsen"
-    paris: "Paris"
   about:
     '1':
       title: "Det första stora europeiska eventet tillägnat delandets ekonomi."

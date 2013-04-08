@@ -22,14 +22,15 @@ fr:
     event: "Partenaires de l'évènement"
     media: "Partenaires Média"
     program: "Partenaires programmation"
-    invitation: "Vous souhaitez devenir partenaire du OuiShare Fest ?<br/>Ecrivez-nous à<span class='contact'><a href='mailto:contribute@ouisharefest.com'>contribute@ouisharefest.com</a></span>"
+    invitation: "Vous souhaitez devenir partenaire du OuiShare Fest ?<br/>Ecrivez-nous à<span class='contact'><a href='mailto:contribute@ouisharefest.com'>contribute@ouisharefest.com</a></span>\nPour devenir supporter, <a href='http://www.weezevent.com/ouishare-fest'target='blank'> clickez ici </a>. "
   team:
     intro: "OuiShare est une communauté ouverte internationale composée de passionnés (entrepreneurs, designers, makers, chercheurs, décideurs publics, citoyens, et bien d'autres) qui oeuvrent pour le développement de l’économie collaborative.</br>Pour en savoir plus :"
     design: "Design"
     development: "Development"
   location:
-    title: "Rejoignez-nous dans ce lieu magique."
-    paris: "Paris"
+    title_first: "Rejoignez-nous au  <a href='http://www.cabaretsauvage.com/' target='_blank'>Cabaret Sauvage</a> à Paris"
+    title_second: "Besoin d'aide pour organiser votre voyage et pour vous loger?"
+    description: "Tout ce que vous devez savoir pour vous rendre au OuiShare Fest  <a href='http://tiny.cc/fest-travel-post' target='_blank'>dans ce post</a>"
   about:
     '1':
       title: "Le premier événement d’envergure européenne sur l’économie collaborative"

@@ -21,9 +21,6 @@ pt_BR:
     intro: "OuiShare é uma comunidade global e aberta de pessoas que trabalham para acelerar a mudança para uma economia colaborativa. Nós somos empresários, designers, realizadores, pesquisadores, funcionários públicos, cidadãos e <strong>mais</strong>.<br/>Saiba mais sobre nós aqui"
     design: "Design"
     development: "Desenvolvimento"
-  location:
-    title: "Junte-se a nós neste lugar mágico"
-    paris: "Paris"
   about:
     '1':
       title: "O primeiro grande evento Europeu dedicado à economia colaborativa."

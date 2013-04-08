@@ -353,6 +353,13 @@
       "company": "Nomadbase",
       "company_url": "http://nomadbase.org",
       "twitter": "guaka"
+    },
+     {
+      "name": "Juanjo Rodriguez",
+      "photo": "http://farm9.staticflickr.com/8239/8631572896_6b0d3c5f8a_q.jpg",
+      "company": "Knok",
+      "company_url": "http://www.knok.com/,
+      "twitter": "knokstory"
     }
   ],
     "team": [
@@ -641,6 +648,11 @@
       "name": "Creative NRW",
       "logo_url": "http://farm9.staticflickr.com/8398/8617045634_80e729463e_o.png",
       "url": "http://creative.nrw.de/news.html"
+    },
+    {
+      "name": "Presse Citron",
+      "logo_url": "http://farm9.staticflickr.com/8390/8631573214_9cf8735e5f_o.png",
+      "url": "http://www.presse-citron.net/"
     }
   ],
   "supporters": [

@@ -12,6 +12,15 @@
       "facebook": "http://ouisharefest.com/img/logo_mobile.jpg"
     }
   },
+  "links": {
+    "tickets": "http://www.weezevent.com/ouishare-fest",
+    "awards": "http://awards.ouisharefest.com/",
+    "share": "http://share.ouisharefest.com/",
+    "program": "http://program.ouisharefest.com/",
+    "day3": "http://program.ouisharefest.com/",
+    "labs": "http://labs.ouishare.net",
+    "fabjam": "http://fabjam.org"
+  },
   "misc": {
     "map_url_small": "https://trello-attachments.s3.amazonaws.com/5123fc39aba431a943005a41/5153f165229499046b001967/be10597edaac52ab6959a48ace2f9af5/OuiShare_Fest_Map_Small.png",
     "map_url_large": "https://trello-attachments.s3.amazonaws.com/5123fc39aba431a943005a41/5153f165229499046b001967/b36681f6b5dcea57159d11051f325a48/OuiShare_Fest_Map_large.png",

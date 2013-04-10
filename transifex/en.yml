@@ -19,6 +19,13 @@ en:
     participate: "Participate"
   speakers:
     heading: "Speakers & Facilitators"
+  program:
+    professional_days: "Professional Days"
+    open_day: "Open Day"
+    thu_and_fri: "Thursday & Friday"
+    sat: "Saturday"
+    in_en: "in English"
+    in_fr_and_en: "in French and English"
   partners:
     event: "Event Partners"
     media: "Media Partners"

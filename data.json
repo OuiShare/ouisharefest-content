@@ -362,7 +362,21 @@
       "company": "Knok",
       "company_url": "http://www.knok.com/",
       "twitter": "knokstory"
-    }
+    },
+    {
+      "name": "Javi Creus",
+      "photo": "http://farm9.staticflickr.com/8125/8638771772_b2c12c9e59_q.jpg",
+      "company": "ideas for change",
+      "company_url": "http://ideasforchange.com/",
+      "twitter": "javicreus"
+    },
+    {
+      "name": "Andrea Cattabriga",
+      "photo": "http://farm9.staticflickr.com/8383/8637667521_19eec6646e_q.jpg",
+      "company": "Slowd.it",
+      "company_url": "http://www.slowd.it/",
+      "twitter": "andrecatta"
+    }  
   ],
     "team": [
     {
@@ -543,14 +557,29 @@
       "url": "http://www.drivy.com"
     },
     {
+      "name": "Carpooling",
+      "logo_url": "http://farm9.staticflickr.com/8261/8637663253_b41f09b445_o.png",
+      "url": "http://www.carpooling.com/"
+    },
+    {
       "name": "Happycurious",
       "logo_url": "http://farm9.staticflickr.com/8092/8552537016_49f171bd59_o.png",
       "url": "http://www.happycurious.fr/"
     },
     {
+      "name": "Orange",
+      "logo_url": "http://farm9.staticflickr.com/8117/8637663221_4e45e284f5_o.png",
+      "url": "http://www.orange.com/"
+    },
+    {
       "name": "Github",
       "logo_url": "http://farm9.staticflickr.com/8526/8579077811_a6921afc76_o.png",
       "url": "http://github.com/"
+    },
+    {
+      "name": "ESCP Europe",
+      "logo_url": "http://farm9.staticflickr.com/8545/8638767786_c14e3f1d04_o.png",
+      "url": "http://www.escpeurope.eu/"
     }
   ],
   "program_partners": [
@@ -689,9 +718,20 @@
       "url": "http://www.bureauxapartager.com/"
     },
     {
+      "name": "Ulule"
+      "logo_url": "http://farm9.staticflickr.com/8535/8637663215_6af0b33970_o.png",
+      "url": "http://ulule.com/"
+    },
+    {
+      "name": "Cocoon Projects"
       "logo_url": "http://farm9.staticflickr.com/8105/8597773107_f8decb2d68_o.png",
       "url": "http://cocoonprojects.com/"
-    }
+    },
+    {
+      "name": "KissKissBankBank",
+      "logo_url": "http://farm9.staticflickr.com/8243/8637663225_b2becffb8b_o.png",
+      "url": "http://www.kisskissbankbank.com/"
+    },
   ],
   "postale": {
     "en": "Both a Bank and a citizen, La Banque Postale provides services to the people, their life, their financial concerns, the area they live in. La Banque Postale has a strong presence in the community, a strong value of sharing and a strong commitment to sustainability. It is commited to the community's daily economic and social life.",

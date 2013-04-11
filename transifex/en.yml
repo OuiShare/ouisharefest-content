@@ -63,21 +63,13 @@ en:
     5:
       title: "Open Knowledge"
       description: "creates the basis for building sustainable societies by opening and democratizing governments, science, education, culture and the economy."
-  contribute:
-    title: "Not just another business conference"
-    description: "From its conceptualization to d-day, OuiShare Fest will be co-designed by the OuiShare community and its partners to make this event a truly collaborative experience."
-    post: "Post an idea<br/>on our idea wall"
-    codesign: "Help us<br/>co-design<br/>the program"
-    host: "Host<br/>a satellite event"
-    volunteer: "Volunteer<br/>For d-day"
-    sponsor: "Become<br/>a sponsor"
-  participate:
+  tickets:
     first: "<strong>Days 1 and 2</strong> are dedicated to professionals and public officials"
     second: "<strong>Day 3</strong> is free and open to the public"
+    book_tickets: "Book your tickets now!"
     participants: "Who's already coming"
-    tickets: "Tickets"
-    awards: "OuiShare Fest Awards"
-    share_with: "Share with other attendees"
+  participate:
+    awards_title: "OuiShare Fest Awards"
+    share_title: "Share with other attendees"
     visit_community_link: "See what people need and can offer on our OuiShare Fest sharing platform"
     awards_description: "A series of prizes to honor projects and startups from the collaborative economy and raise awareness for the <a href='http://ouishare.net/about/our-values/'>values</a> of the OuiShare community."
-    book_tickets: "Book your tickets now!"

@@ -580,6 +580,11 @@
       "name": "ESCP Europe",
       "logo_url": "http://farm9.staticflickr.com/8545/8638767786_c14e3f1d04_o.png",
       "url": "http://www.escpeurope.eu/"
+    },
+    {
+      "name": "Ondine",
+      "logo_url": "http://farm9.staticflickr.com/8253/8639859748_33d8b17e3c_o.png",
+      "url": "http://www.agence-ondine.com/"
     }
   ],
   "program_partners": [
@@ -689,6 +694,11 @@
       "name": "Presse Citron",
       "logo_url": "http://farm9.staticflickr.com/8390/8631573214_9cf8735e5f_o.png",
       "url": "http://www.presse-citron.net/"
+    },
+    {
+      "name": "Knowtex",
+      "logo_url": "http://farm9.staticflickr.com/8531/8638756211_7a9b4def44_o.png",
+      "url": "http://www.knowtex.com/"
     }
   ],
   "supporters": [
@@ -731,6 +741,11 @@
       "name": "KissKissBankBank",
       "logo_url": "http://farm9.staticflickr.com/8243/8637663225_b2becffb8b_o.png",
       "url": "http://www.kisskissbankbank.com/"
+    },
+    {
+      "name": "Bluenod",
+      "logo_url": "http://farm9.staticflickr.com/8395/8638756219_8a88b2dfc3_o.png",
+      "url": "http://bluenod.com/"
     }
   ],
   "postale": {

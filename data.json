@@ -704,6 +704,11 @@
       "name": "Knowtex",
       "logo_url": "http://farm9.staticflickr.com/8531/8638756211_7a9b4def44_o.png",
       "url": "http://www.knowtex.com/"
+    },
+    {
+      "name": "Labkultur",
+      "logo_url": "http://farm9.staticflickr.com/8107/8640971050_f78372681d_o.png",
+      "url": "http://www.labkultur.tv/"
     }
   ],
   "supporters": [
@@ -751,6 +756,16 @@
       "name": "Bluenod",
       "logo_url": "http://farm9.staticflickr.com/8395/8638756219_8a88b2dfc3_o.png",
       "url": "http://bluenod.com/"
+    },
+    {
+      "name": "Payname",
+      "logo_url": "http://farm9.staticflickr.com/8540/8640971080_c6a2205347_o.png",
+      "url": "https://www.payname.fr/"
+    },
+    {
+      "name": "Alter Eco",
+      "logo_url": "http://farm9.staticflickr.com/8116/8640971062_c5edfacc1e_o.png",
+      "url": "http://www.altereco.com/"
     }
   ],
   "postale": {

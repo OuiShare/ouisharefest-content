@@ -558,7 +558,7 @@
     },
     {
       "name": "Orange",
-      "logo_url": "http://farm9.staticflickr.com/8117/8637663221_4e45e284f5_o.png",
+      "logo_url": "http://farm9.staticflickr.com/8260/8640024666_0656425b01_o.png",
       "url": "http://www.orange.com/"
     },
     {
@@ -578,7 +578,7 @@
     },
     {
       "name": "ESCP Europe",
-      "logo_url": "http://farm9.staticflickr.com/8545/8638767786_c14e3f1d04_o.png",
+      "logo_url": "http://farm9.staticflickr.com/8521/8638921091_e2e4e7bc65_o.png",
       "url": "http://www.escpeurope.eu/"
     },
     {
@@ -647,6 +647,11 @@
       "name": "Nod_A",
       "logo_url": "http://farm9.staticflickr.com/8542/8621988262_7ecbeaae1e_o.png",
       "url": "http://nod-a.com/"
+    },
+    {
+      "name": "Nouvelle Fabrique",
+      "logo_url": "http://farm9.staticflickr.com/8102/8638921089_ff83acf236_o.png",
+      "url": "www.nouvellefabrique.fr"
     }
   ],
   "media_partners": [
@@ -692,7 +697,7 @@
     },
     {
       "name": "Presse Citron",
-      "logo_url": "http://farm9.staticflickr.com/8390/8631573214_9cf8735e5f_o.png",
+      "logo_url": "http://farm9.staticflickr.com/8537/8638921083_f483b713fa_o.png",
       "url": "http://www.presse-citron.net/"
     },
     {
@@ -723,11 +728,6 @@
       "url": "http://www.v2rf.org/"
     },
     {
-      "name": "Bureaux À Partager",
-      "logo_url": "http://farm9.staticflickr.com/8522/8595164846_7817327d47_o.png",
-      "url": "http://www.bureauxapartager.com/"
-    },
-    {
       "name": "Ulule",
       "logo_url": "http://farm9.staticflickr.com/8535/8637663215_6af0b33970_o.png",
       "url": "http://ulule.com/"
@@ -741,6 +741,11 @@
       "name": "KissKissBankBank",
       "logo_url": "http://farm9.staticflickr.com/8243/8637663225_b2becffb8b_o.png",
       "url": "http://www.kisskissbankbank.com/"
+    },
+    {
+      "name": "Bureaux À Partager",
+      "logo_url": "http://farm9.staticflickr.com/8522/8595164846_7817327d47_o.png",
+      "url": "http://www.bureauxapartager.com/"
     },
     {
       "name": "Bluenod",

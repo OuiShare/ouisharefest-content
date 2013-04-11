@@ -16,12 +16,21 @@ fr:
     location: "Lieu"
     contribute: "Contribuer"
     register: "S'inscrire"
+    participate: "Participe"
   speakers:
     heading: "Intervenants et Modérateurs"
+  program:
+    professional_days: "Journées pro"
+    open_day: "Journée ouverte"
+    thu_and_fri: "Jeudi et Vendredi"
+    sat: "Samedi"
+    in_en: "en anglais"
+    in_fr_and_en: "en français et en anglais"
   partners:
     event: "Partenaires de l'évènement"
     media: "Partenaires Média"
     program: "Partenaires programmation"
+    supporters: "Supporteurs"
     invitation: "Vous souhaitez devenir partenaire du OuiShare Fest ?<br/>Ecrivez-nous à<span class='contact'><a href='mailto:contribute@ouisharefest.com'>contribute@ouisharefest.com</a></span>\nPour devenir supporter, <a href='http://www.weezevent.com/ouishare-fest'target='blank'> clickez ici </a>. "
   team:
     intro: "OuiShare est une communauté ouverte internationale composée de passionnés (entrepreneurs, designers, makers, chercheurs, décideurs publics, citoyens, et bien d'autres) qui oeuvrent pour le développement de l’économie collaborative.</br>Pour en savoir plus :"
@@ -54,16 +63,13 @@ fr:
     '5':
       title: "La culture libre (open knowledge)"
       description: "est le socle numérique d’une société collaborative, permettant la démocratisation de la science, de la culture, de la politique, de l’éducation ou encore de l’économie."
-  contribute:
-    title: "Plus qu’un événement : une expérience collaborative"
-    description: "De sa conception jusqu’au jour J, le OuiShare Fest sera co-construit par la communauté OuiShare et ses partenaires, pour faire de cet événement une véritable expérience collaborative."
-    post: "Contribuer<br/>à notre mur d'idées"
-    codesign: "Participer<br/>au co-design du programme"
-    host: "Organiser<br/>un événement satellite"
-    volunteer: "Être bénévole<br/>pendant l'événement"
-    sponsor: "Devenir<br/>lpartenaire officiel"
-  register:
-    first: "<strong>OuiShare et La Fonderie</strong> sont des associations à but non lucratif. Nous souhaitons que chacun soit en mesure de participer au Fest."
-    second: "<strong>Les deux premières journées</strong> sont destinées aux <strong>professionnels</strong> qui souhaitent en savoir plus sur cette nouvelle économie et construire ensemble son avenir au travers de tables rondes, sessions plénières, ateliers, barcamps, etc. Le prix des billets est compris entre 120 et 350 euros, selon les ressources de votre organisation et la promptitude de votre achat. Le nombre de billets “Early Bird” est limité, ne tardez pas à réserver le vôtre ! Les repas, boissons et participation à la soirée de clôture sont inclus dans le prix du billet.<br/>Etudiants, nous avons quelques places à prix réduit. <a href='mailto:hello@ouisharefest.com'>Contactez-nous</a>au plus tôt.  "
-    third: "<strong>La troisième journée</strong> sera <strong>totalement gratuite</strong> et ouverte au public, avec une succession d’activités permettant de découvrir et expérimenter l’économie et les modes de vie collaboratifs. Les ateliers pratiques, fablabs éphémères, sessions de live-crowdfunding et autres démonstrations se tiendront au Cabaret Sauvage, le lieu principal du festival, mais aussi aux quatre coins de Paris et d’Île-de-France. Restez à l’écoute pour connaître le programme au plus tôt."
-    participants: "Invités confirmés"
+  tickets:
+    first: "Les <strong>journées 1 et 2</strong> sont dédiées aux professionnels et officiels"
+    second: "La <strong>3ème journée</strong> est gratuite et ouverte au public"
+    book_tickets: "Achetez vos tickets dès maintenant !"
+    participants: "Qui vient"
+  participate:
+    awards_title: "OuiShare Fest Awards"
+    share_title: "Partager avec les autres participants"
+    visit_community_link: "Voyez ce que les autres offrent et proposent sur la plateforme de partage dédiée au OuiShare Fest"
+    awards_description: "Une série de prix pour honorer les projets et startups de l'économie collaborative et sensibiliser aux <a href='http://ouishare.net/about/our-values/'>valeurs</a> de la communauté OuiShare"

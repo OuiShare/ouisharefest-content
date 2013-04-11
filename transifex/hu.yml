@@ -1,17 +1,75 @@
 hu:
   conf:
     name: "OuiShare Fest: Három napos fesztivál az együttműködő gazdaságról"
-    description: "Három napos nemzetközi fesztivál ami összehoz vállalkozókat, designereket, közgazdászokat, befektetőket, politikusokat és fogyasztókat hogy közösen megteremtsenek egy együttműködésre épülő jövőt. Párizs, Május 2-3-4, 2013."
+    description: "Három napos nemzetközi fesztivál ami összehoz vállalkozókat, designereket, közgazdászokat, befektetőket, politikusokat és fogyasztókat hogy közösen megteremtsék az együttműködésre épülő jövőt. Párizs, Május 2-3-4, 2013."
   og:
-    title: "OuiShare Fest: Fesztivál az együttműködő gazdaság szellemében"
-    description: "Három napos nemzetközi fesztivál ami összehoz vállalkozókat, designereket, közgazdászokat, befektetőket, politikusokat és fogyasztókat hogy közösen megteremtsenek egy együttműködésre épülő jövőt. Párizs, Május 2-3-4, 2013."
+    title: "OuiShare Fest: Az együttműködő gazdaság fesztiválja"
+    description: "Három napos nemzetközi fesztivál ami összehoz vállalkozókat, designereket, közgazdászokat, befektetőket, politikusokat és fogyasztókat hogy közösen megteremtsék az együttműködésre épülő jövőt. Párizs, Május 2-3-4, 2013."
   sections:
     about: "Rólunk"
     topics: "Témák"
     speakers: "Előadók"
+    facilitators: "Szervezőink"
     program: "Program"
     partners: "Partnereink"
     team: "Szervezők"
     location: "Helyszín"
     contribute: "Segítek!"
-    register: "Regisztráció"
+    register: "Jegyek"
+    participate: "Részvétel"
+  speakers:
+    heading: "Előadók"
+  program:
+    professional_days: "Szakmai napok"
+    open_day: "Nyílt nap"
+    thu_and_fri: "Csütörtök és Péntek"
+    sat: "Szombat"
+    in_en: "angolul"
+    in_fr_and_en: "franciául és angolul"
+  partners:
+    event: "Az esemény partnerei"
+    media: "Média partnerek"
+    program: "Program partnerek"
+    supporters: "Támogatóink"
+    invitation: "Amennyiben partnerként kívánod támogatni az eseményt,<br/>lépj kapcsolatba Velünk itt : <span class='contact'><a href='mailto:contribute@ouisharefest.com'>contribute@ouisharefest.com</a></span>"
+  team:
+    intro: "OuiShare egy nyitott, nemzetközi közösség melynek célja hogy felgyorsítsa az együttműködő gazdaság fejlődését és elterjedését. Közreműködnek közgazdászok, designerek, kutatók, állami szervek, fogyasztók és <strong>sokan mások</strong>.<br>További infókat itt találsz Rólunk"
+    design: "Design"
+    development: "Fejlesztés"
+  location:
+    title_first: "Találkozzunk a <a href='http://www.cabaretsauvage.com/' target='_blank'>Cabaret Sauvage</a>-ban, Párizsban"
+    title_second: "Szállással, utazással kapcsolatos kérdésed van?"
+    description: "Itt minden információt megtalálsz az OuiShare Fest-re jutással kapcsolatban <a href='http://tiny.cc/fest-travel-post' target='_blank'>blog post</a>"
+  about:
+    '1':
+      title: "Az első Európa-szintű esemény az együttműködő gazdaságnak szentelve."
+      description: "Három napos nemzetközi fesztivál ami összehoz vállalkozókat, designereket, közgazdászokat, befektetőket, politikusokat és fogyasztókat hogy közösen megteremtsék az együttműködésre épülő jövőt. <br/><strong>Párizs, Május 2-3-4, 2013.</strong>"
+    '2':
+      title: "Nem egy n-edik gazdasági konferencia."
+      description: "Egy igazi közösségi alkotás: az Ouishare Fest-en számos közösségi eseménnyel és nagyon sok jó élő zenével találkozhatsz.<br/><strong>Az első két nap</strong> szakmai napm több mint 500 résztvevővel.<br/><strong>A harmadik nap</strong> nyílt nap, mindenki számára ingyenes a részvétel."
+  topics:
+    '1':
+      title: "Eljött az együttműködő gazdaság ideje Európában."
+      description: "Számos közösségi, peer-to-peer és szabad megoldás léte átértelmezi a termékek, szolgáltatások termelésének és fogyasztásának mai formáját."
+    '2':
+      title: "Közösségi fogyasztás"
+      description: "kihasználva az Internet és a p2p hálók erejét, újraértelmezi az adás-vétel, bérbeadás és cserekereskedelem ma használt formáit."
+    '3':
+      title: "\"Makers\" és a közösségi gyártás"
+      description: "új ipari forradalomhoz vezet. A gyártás az új digitális (3D-s nyomtató) és lokális gyártási eszközök (Fablab) illetve a nyílt forráskódú harverek elterjedésének hatására demokratizálódik."
+    '4':
+      title: "P2P finanszírozás"
+      description: "a közösségi finanszírozás és p2p hitelezés tőkét oszt szét, az alternatív pénznemek és az ajándékgazdaság pedig az értékek kereskedésének egy új formáját teremtik meg"
+    '5':
+      title: "Nyílt tudás"
+      description: "demokratizálja a kormányzást, a tudományt, az oktatást, a kultúrát és a gazdaságot és így megteremti a fenntartható társadalom alapjait."
+  tickets:
+    first: "<strong>Első és második nap</strong> szakmai napok"
+    second: "<strong>Harmadik nap</strong> nyílt nap, ingyenes belépés minden résztvevőnek"
+    book_tickets: "Megveszem a jegyemet!"
+    participants: "Akik már biztos ott lesznek"
+  participate:
+    awards_title: "OuiShare Fest Awards"
+    share_title: "Lépj kapcsolatba más résztvevőkkel"
+    visit_community_link: "Az OuiShare Fest közösségi oldalon láthatod a többi résztvevő kéréseit és ajánlatait"
+    awards_description: "Számos díjat osztunk ki az együttműködő gazdaságot építő projekteknek és start-upoknak akik hozzájárulnak az <a href='http://ouishare.net/about/our-values/'> az OuiShare közösség értékeinek</a> népszerüsítéséhez."

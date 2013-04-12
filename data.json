@@ -141,13 +141,6 @@
       "twitter": "izakaminska"
     },
     {
-      "name": "Cédric Giorgi",
-      "photo": "/img/speakers/speakers_Giorgi_Cedric.jpg",
-      "company": "Cookening",
-      "company_url": "http://www.cookening.com/",
-      "twitter": "cgiorgi"
-    },
-    {
       "name": "Fabrizio Sestini",
       "photo": "http://farm9.staticflickr.com/8108/8643267200_061d14f4cf_q.jpg",
       "company": "European Commission",
@@ -174,6 +167,13 @@
       "company": "Ulule",
       "company_url": "http://ulule.com/",
       "twitter": "cemonsieur"
+    },
+    {
+      "name": "Cédric Giorgi",
+      "photo": "/img/speakers/speakers_Giorgi_Cedric.jpg",
+      "company": "Cookening",
+      "company_url": "http://www.cookening.com/",
+      "twitter": "cgiorgi"
     },
     {
       "name": "Carsten Foertsch",

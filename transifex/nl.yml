@@ -16,8 +16,16 @@ nl:
     location: "Locatie"
     contribute: "Bijdragen"
     register: "Kaarten"
+    participate: "Deelnemen"
   speakers:
     heading: "Sprekers & Facilitators"
+  program:
+    professional_days: "Professionele Dagen"
+    open_day: "Open Dag"
+    thu_and_fri: "Donderdag & vrijdag"
+    sat: "Zaterdag"
+    in_en: "in het Engels"
+    in_fr_and_en: "in het Frans en Engels"
   partners:
     event: "Evenement Partners"
     media: "Media Partners"
@@ -55,3 +63,13 @@ nl:
     '5':
       title: "Open Knowledge"
       description: "legt de basis voor de opbouw van een duurzame samenleving door het openen en democratiseren van overheden, wetenschap, onderwijs, cultuur en economie."
+  tickets:
+    first: "<strong>Dag 1 en 2</strong> zijn toegewijd aan professionals en ambtenaren"
+    second: "<strong>Dag 3</strong> is gratis en open voor het publiek"
+    book_tickets: "Boek je kaarten nu!"
+    participants: "Wie komt er al"
+  participate:
+    awards_title: "OuiShare Fest Prijzen"
+    share_title: "Deel met andere deelnemers"
+    visit_community_link: "Zie hier wat mensen nodig hebben en aanbieden op onze OuiShare Fest deel platform"
+    awards_description: "Een aantal prijzen om projecten en startups in de collaborative economy te eren en het verhogen van de bewustzijn voor de <a href='http://ouishare.net/about/our-values/'>waarden</a> van de OuiShare community."

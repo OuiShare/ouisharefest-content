@@ -16,8 +16,16 @@ et:
     location: "Asukoht"
     contribute: "Aita kaasa"
     register: "Registreeri"
+    participate: "Osale"
   speakers:
     heading: "Esinejad ja kaasaaitajad"
+  program:
+    professional_days: "Spetsialistide päevad"
+    open_day: "Avatud päev"
+    thu_and_fri: "Neljapäev ja reede"
+    sat: "Laupäev"
+    in_en: "inglise keeles"
+    in_fr_and_en: "inglise ja prantsuse keeles"
   partners:
     event: "Ürituse Partnerid"
     media: "Meedia Partnerid"
@@ -55,3 +63,13 @@ et:
     '5':
       title: "Avatud teadmised"
       description: "loob, avades ja demokratiseerides valitsust, teadust, haridust, kultuuri ja majandust, baasi jätkusuutliku ühiskonna ehitamiseks."
+  tickets:
+    first: "<strong>Esimene ja teine päev</strong> on pühendatud spetsialistidele ja ametnikele"
+    second: "<strong>Kolmas päev</strong> on tasuta ja see on avatud kõigile"
+    book_tickets: "Osta piletid!"
+    participants: "Kes on tulemas"
+  participate:
+    awards_title: "OuiShare festivali autasud"
+    share_title: "Jaga teiste osalejatega"
+    visit_community_link: "Vaata, mida inimesed OuiShare Festil otsivad ja pakuvad "
+    awards_description: "Mitmed auhinnad tunnustamaks koostöömajandust rakendavaid projekte ja idufirmasid ning suurendamaks teadlikkust OuiShare kogukonna <a href='http://ouishare.net/about/our-values/'>väärtustest</a>."

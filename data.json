@@ -446,6 +446,34 @@
       "company": "Democratie Ouverte",
       "company_url": "http://democratieouverte.org/",
       "twitter": "gagarine"
+    },
+    {
+      "name": "Marie Prenat",
+      "photo": "http://farm9.staticflickr.com/8266/8643266950_43ec2c3f9d_q.jpg",
+      "company": "Talalilala",
+      "company_url": "http://www.talalilala.com/",
+      "twitter": "grousico"
+    },
+    {
+      "name": "Alexandre Grandrémy",
+      "photo": "http://farm9.staticflickr.com/8381/8643267702_f5728ac869_q.jpg",
+      "company": "Deways",
+      "company_url": "http://www.deways.com/",
+      "twitter": "AlexGrandremy"
+    },
+    {
+      "name": "Guillaume Verhaeghe",
+      "photo": "http://farm9.staticflickr.com/8537/8643267114_f700b99c4e_q.jpg",
+      "company": "Djengo",
+      "company_url": "http://djengo.be/",
+      "twitter": "guillaumeverag"
+    },
+    {
+      "name": "Paulin Dementhon",
+      "photo": "http://farm9.staticflickr.com/8110/8642166733_83f2ae37da_q.jpg",
+      "company": "Drivy/Voiturelib",
+      "company_url": "https://www.drivy.com/",
+      "twitter": "popaulin"
     }
   ],
     "team": [

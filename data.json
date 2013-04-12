@@ -474,6 +474,27 @@
       "company": "Drivy/Voiturelib",
       "company_url": "https://www.drivy.com/",
       "twitter": "popaulin"
+    },
+    {
+      "name": "Anne-Cécile Ragot",
+      "photo": "http://farm9.staticflickr.com/8396/8642167665_0d214594dc_q.jpg",
+      "company": "TAOA",
+      "company_url": "http://www.taoaproject.org/",
+      "twitter": ""
+    },
+    {
+      "name": "Nicolas Bard",
+      "photo": "http://farm9.staticflickr.com/8122/8642166745_a6875637f2_q.jpg",
+      "company": "Made in Montreuil",
+      "company_url": "http://www.icimontreuil.com/",
+      "twitter": "NicolasBard"
+    },
+    {
+      "name": "Marc-David Choukroun",
+      "photo": "http://farm9.staticflickr.com/8403/8642166813_0e75cf2e7b_q.jpg",
+      "company": "La Ruche qui dit Oui",
+      "company_url": "http://www.laruchequiditoui.fr",
+      "twitter": "mdchouk"
     }
   ],
     "team": [

@@ -106,6 +106,13 @@
       "twitter": "ogremillon"
     },
     {
+      "name": "Molly Turner",
+      "photo": "http://farm9.staticflickr.com/8124/8643266944_014b70b9e8_q.jpg",
+      "company": "Airbnb",
+      "company_url": "http://www.airbnb.com/",
+      "twitter": "mollysturner"
+    },
+    {
       "name": "Edial Dekker",
       "photo": "/img/speakers/Speakers_Dekker_Edial.jpg",
       "company": "Gidsy",
@@ -364,6 +371,13 @@
       "twitter": "knokstory"
     },
     {
+      "name": "Shabnam Avar",
+      "photo": "http://farm9.staticflickr.com/8382/8643266750_d6305423ea_q.jpg",
+      "company": "",
+      "company_url": "http://about.me/shabnam_anvar",
+      "twitter": "wwsdo"
+    },
+    {
       "name": "Javi Creus",
       "photo": "http://farm9.staticflickr.com/8125/8638771772_b2c12c9e59_q.jpg",
       "company": "ideas for change",
@@ -376,7 +390,21 @@
       "company": "Slowd.it",
       "company_url": "http://www.slowd.it/",
       "twitter": "andrecatta"
-    }  
+    },
+    {
+      "name": "Etienne Hayem",
+      "photo": "http://farm9.staticflickr.com/8099/8643267668_fed0de386e_q.jpg",
+      "company": "Zoupic",
+      "company_url": " http://www.zoupic.com",
+      "twitter": "zoupic"
+    },
+    {
+      "name": "Nathan Stern",
+      "photo": "http://farm9.staticflickr.com/8245/8643266970_7feb9cb2ed_q.jpg",
+      "company": "",
+      "company_url": " http://about.me/nathan.stern",
+      "twitter": "nathStern"
+    }
   ],
     "team": [
     {

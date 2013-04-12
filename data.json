@@ -406,6 +406,13 @@
       "twitter": "andrecatta"
     },
     {
+      "name": "Katie Needs",
+      "photo": "http://farm9.staticflickr.com/8262/8643266972_00c27969ef_q.jpg",
+      "company": "Gidsy",
+      "company_url": " http://www.gidsy.com",
+      "twitter": "katieneeds"
+    },
+    {
       "name": "Etienne Hayem",
       "photo": "http://farm9.staticflickr.com/8099/8643267668_fed0de386e_q.jpg",
       "company": "Zoupic",
@@ -416,9 +423,30 @@
       "name": "Nathan Stern",
       "photo": "http://farm9.staticflickr.com/8245/8643266970_7feb9cb2ed_q.jpg",
       "company": "",
-      "company_url": " http://about.me/nathan.stern",
+      "company_url": "http://about.me/nathan.stern",
       "twitter": "nathStern"
-    }
+    },
+    {
+      "name": "Simon Chignard",
+      "photo": "http://farm9.staticflickr.com/8395/8642166651_3e197aa498_q.jpg",
+      "company": "",
+      "company_url": "",
+      "twitter": "schignard"
+    },
+    {
+      "name": "Scott Chacun",
+      "photo": "http://farm9.staticflickr.com/8396/8643267676_8ed6fc54cd_q.jpg",
+      "company": "Github",
+      "company_url": "http://www.github.com",
+      "twitter": "chacon"
+    },
+    {
+      "name": "Simon Perdrisat",
+      "photo": "http://farm9.staticflickr.com/8259/8643266670_3f5878b69a_q.jpg",
+      "company": "Democratie Ouverte",
+      "company_url": "http://democratieouverte.org/",
+      "twitter": "gagarine"
+    },
   ],
     "team": [
     {

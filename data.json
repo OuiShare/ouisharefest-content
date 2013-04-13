@@ -537,8 +537,14 @@
       "company": "MakeSense",
       "company_url": "we.makesense.org",
       "twitter": "Coconutsurfing"
+    },
+    {
+      "name": "Sam Muirhead",
+      "photo": "http://farm9.staticflickr.com/8402/8643971991_97ae3c28bb_q.jpg",
+      "company": "Year of Open Source",
+      "company_url": "http://www.yearofopensource.net/",
+      "twitter": "YrOfOpenSource"
     }
- 
   ],
     "team": [
     {

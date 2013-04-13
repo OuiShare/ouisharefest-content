@@ -498,7 +498,7 @@
     },
     {
       "name": "David Potocnik",
-      "photo": "http://farm9.staticflickr.com/8403/8642166813_0e75cf2e7b_q.jpg",
+      "photo": "http://farm9.staticflickr.com/8125/8643987369_3dbe23ccd2_q.jpg",
       "company": "CHT",
       "company_url": "http://totalism.org",
       "twitter": "dcht00"
@@ -551,6 +551,27 @@
       "company": "CommunityForge",
       "company_url": "http://communityforge.net",
       "twitter": ""
+    },
+    {
+      "name": "Eli Gothill",
+      "photo": "http://farm9.staticflickr.com/8526/8643951193_9a0b79f9f9_q.jpg",
+      "company": "PunkMoney",
+      "company_url": "www.punkmoney.org/",
+      "twitter": "webisteme"
+    },
+    {
+      "name": "Ramon Blanco",
+      "photo": "http://farm9.staticflickr.com/8383/8645083992_ccb4284d26_q.jpg",
+      "company": "Etece.es",
+      "company_url": "http://etece.es/",
+      "twitter": "Ramon10"
+    },
+    {
+      "name": "Marc-Arthur Gauthey",
+      "photo": "http://farm9.staticflickr.com/8521/8643992033_b4ea606dca_q.jpg",
+      "company": "Cup of Teach",
+      "company_url": "https://www.cupofteach.com/",
+      "twitter": "marc6arthur"
     }
   ],
     "team": [

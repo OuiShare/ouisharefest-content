@@ -406,6 +406,13 @@
       "twitter": "andrecatta"
     },
     {
+      "name": "Philipp Gloeckler",
+      "photo": "http://farm9.staticflickr.com/8538/8645382850_d319011200_q.jpg",
+      "company": "WhyOwnIt",
+      "company_url": "https://whyownit.com/",
+      "twitter": "gloeckler"
+    },
+    {
       "name": "Katie Needs",
       "photo": "http://farm9.staticflickr.com/8262/8643266972_00c27969ef_q.jpg",
       "company": "Gidsy",
@@ -425,6 +432,13 @@
       "company": "",
       "company_url": "http://about.me/nathan.stern",
       "twitter": "nathStern"
+    },
+    {
+      "name": "Anne-Laure Brun-Buisson",
+      "photo": "http://farm9.staticflickr.com/8110/8644285973_ebde523531_q.jpg",
+      "company": "Sharelex",
+      "company_url": "http://sharelex.org/",
+      "twitter": "Sharelex"
     },
     {
       "name": "Simon Chignard",
@@ -572,6 +586,14 @@
       "company": "Cup of Teach",
       "company_url": "https://www.cupofteach.com/",
       "twitter": "marc6arthur"
+    },
+    {
+      "name": "Galina Emelina",
+      "photo": "http://farm9.staticflickr.com/8541/8644294237_92963ba717_q.jpg",
+      "company": "D.Collective Berlin",
+      "company_url": "https://www.facebook.com/d.collective.space",
+      "twitter": "galasounds"
+
     }
   ],
     "team": [

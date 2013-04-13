@@ -9,13 +9,24 @@ it:
     about: "A riguardo"
     topics: "Argomenti"
     speakers: "Relatori"
+    facilitators: "Facilitatori"
     program: "Programma"
     partners: "Partners"
     team: "Team"
     location: "Posizione"
     contribute: "Contribuire"
-    register: "Registrati"
+    register: "Biglietti"
+    participate: "Participa"
+  speakers:
+    heading: "Speakers e Facilitatori"
+  program:
+    in_en: "in Inglese"
+    in_fr_and_en: "in Francese e Inglese"
   partners:
+    event: "Partners dell'evento"
+    media: "Media Partners"
+    program: "Partners di Programma"
+    supporters: "Sostenitori"
     invitation: "Se vuoi diventare un partner,<br/>per favore contattaci a <span class='contact'><a href='mailto:contribute@ouisharefest.com'>contribute@ouisharefest.com</a></span>"
   team:
     intro: "OuiShare è una comunità globale aperta di persone che lavorano per accelerare il passaggio verso un'economia collaborativa. Siamo imprenditori, progettisti, makers, ricercatori, funzionari pubblici, cittadini e <strong>altro</strong>.<br/>Per saperne di più su di noi"
@@ -44,3 +55,8 @@ it:
     '5':
       title: "Conoscenza Libera"
       description: "crea le basi per la costruzione di società sostenibili con l'apertura e la democratizzazione dei governi, della scienza, dell'istruzione, della cultura e dell'economia."
+  tickets:
+    first: "I <strong>Giorni 1 e 2</strong> sono dedicati a professionisti e funzionari pubblici"
+    second: "Il <strong>Giorno 3</strong> è gratuito e aperto al pubblico"
+  participate:
+    awards_title: "OuiShare Fest Awards"

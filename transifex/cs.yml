@@ -37,7 +37,9 @@ cs:
     design: "Návrh"
     development: "Vývoj"
   location:
+    title_first: "Přidejte se k nám u <a href='http://www.cabaretsauvage.com/' target='_blank'>Cabaret Sauvage</a> v Paříži"
     title_second: "Potřebujete pomoci s cestou a s ubytováním?"
+    description: "Můžete najít vše, co potřebujete vědět o cestování na OuiShare Fest v tomto <a href='http://tiny.cc/fest-travel-post' target='_blank'>blogu</a>"
   about:
     '1':
       title: "První velká Evropská akce věnovaná kolaborativní ekonomice."
@@ -65,7 +67,7 @@ cs:
     first: "<strong>Dny 1 a 2</strong> jsou určeny pro odborníky a veřejné činitele"
     second: "<strong>Den 3</strong> je zdarma a otevřený pro veřejnost"
     book_tickets: "Rezervujte nyní Vaše vstupenky!"
-    participants: "Kdo už přichází"
+    participants: "Kdo přijde"
   participate:
     awards_title: "OuiShare Fest Awards"
     share_title: "Sdílejte s ostatními účastníky"

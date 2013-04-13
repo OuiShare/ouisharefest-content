@@ -495,6 +495,20 @@
       "company": "La Ruche qui dit Oui",
       "company_url": "http://www.laruchequiditoui.fr",
       "twitter": "mdchouk"
+    },
+    {
+      "name": "David Potocnik",
+      "photo": "http://farm9.staticflickr.com/8403/8642166813_0e75cf2e7b_q.jpg",
+      "company": "CHT",
+      "company_url": "http://totalism.org",
+      "twitter": "dcht00"
+    },
+    {
+      "name": "Yoann Duriaux",
+      "photo": "http://farm9.staticflickr.com/8537/8645047178_26f455850f_q.jpg",
+      "company": "",
+      "company_url": "http://yoannduriaux.wordpress.com/",
+      "twitter": "yoannduriaux"
     }
   ],
     "team": [

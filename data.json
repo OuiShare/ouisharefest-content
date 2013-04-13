@@ -504,11 +504,25 @@
       "twitter": "dcht00"
     },
     {
+      "name": "Debbie Wosskow",
+      "photo": "http://farm9.staticflickr.com/8399/8643951225_e616943306_q.jpg",
+      "company": "Love Home Swap",
+      "company_url": "http://www.lovehomeswap.com/",
+      "twitter": "DebbieWossk"
+    },
+    {
       "name": "Yoann Duriaux",
       "photo": "http://farm9.staticflickr.com/8537/8645047178_26f455850f_q.jpg",
       "company": "",
       "company_url": "http://yoannduriaux.wordpress.com/",
       "twitter": "yoannduriaux"
+    },
+    {
+      "name": "Anne-Sophie Novel",
+      "photo": "http://farm9.staticflickr.com/8251/8643961003_83dbe96249_q.jpg",
+      "company": "Co-Lab",
+      "company_url": "http://co-lab.fr",
+      "twitter": "soann"
     }
   ],
     "team": [

@@ -450,7 +450,7 @@
     {
       "name": "Nathan Stern",
       "photo": "http://farm9.staticflickr.com/8245/8643266970_7feb9cb2ed_q.jpg",
-      "company": "",
+      "company": "Social Engineer",
       "company_url": "http://about.me/nathan.stern",
       "twitter": "nathStern"
     },
@@ -464,8 +464,8 @@
     {
       "name": "Simon Chignard",
       "photo": "http://farm9.staticflickr.com/8395/8642166651_3e197aa498_q.jpg",
-      "company": "",
-      "company_url": "",
+      "company": "DonnéesOuvertes.info",
+      "company_url": "http://DonneesOuvertes.info",
       "twitter": "schignard"
     },
     {
@@ -548,7 +548,7 @@
     {
       "name": "Yoann Duriaux",
       "photo": "http://farm9.staticflickr.com/8537/8645047178_26f455850f_q.jpg",
-      "company": "",
+      "company": "Le Comptoir Numérique",
       "company_url": "http://yoannduriaux.wordpress.com/",
       "twitter": "yoannduriaux"
     },

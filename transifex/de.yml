@@ -9,14 +9,23 @@ de:
     about: "Was"
     topics: "Themen"
     speakers: "Speaker"
+    facilitators: "Speaker & Unterstützer"
     program: "Programm"
     partners: "Partner"
     team: "Team"
     location: "Wo"
     contribute: "Mitmachen"
     register: "Tickets"
+    participate: "Teilnehmen"
   speakers:
     heading: "Speaker & Unterstützer"
+  program:
+    professional_days: "Konferenz für Experten"
+    open_day: "Tag der offenen Tür"
+    thu_and_fri: "Donnerstag & Freitag"
+    sat: "Samstag"
+    in_en: "auf Englisch"
+    in_fr_and_en: "auf Französisch und Englisch"
   partners:
     event: "Eventpartner"
     media: "Medienpartner"
@@ -54,3 +63,13 @@ de:
     '5':
       title: "Offenes Wissen"
       description: "schafft die Basis für eine nachhaltige Gesellschaft durch die Öffnung und Demokratisierung von Regierung, Wissenschaft, Bildung, \nKultur und Wirtschaft."
+  tickets:
+    first: "<strong>Tage 1 und 2 </strong> richten sich an Experten, Politiker und Beamte."
+    second: "<strong> Der dritte Tag </strong> ist kostenlos und einer breiten Öffentlichkeit gewidmet."
+    book_tickets: "Tickets jetzt kaufen!"
+    participants: "Wer schon kommt"
+  participate:
+    awards_title: "OuiShare Fest Awards"
+    share_title: "Teilen bei OuiShare Fest"
+    visit_community_link: "Sehen Sie auf unserer OuiShare Fest Sharing Plattform was andere Leute brauchen oder anbieten."
+    awards_description: "Eine Reihe von Preisen zur Ehrung von Startups und Projekten der Collaborative Economy, mit dem Ziel Aufmerksamkeit für die <a href='http://ouishare.net/about/our-values/'>Werte</a> der OuiShare Community zu schaffen. "

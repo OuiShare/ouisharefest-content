@@ -10,10 +10,13 @@ sv:
     topics: "Ämnen"
     speakers: "Talare"
     program: "Program"
+    partners: "Partners"
     team: "Team"
     location: "Plats"
     contribute: "Delta"
     register: "Anmäl dig"
+  partners:
+    invitation: "Om du skulle vilja bli en partner,<br/>kontakta oss på <span class='contact'><a href='mailto:contribute@ouisharefest.com'>contribute@ouisharefest.com</a></span>"
   team:
     intro: "OuiShare är ett öppet världsomspännande community med människor som arbetar för och med delandets ekonomi (på engelska \"collaborative economy\"). Vi är entreprenörer, designers, ekonomer, investerare, politiker och medborgare <strong>med mera</strong>.<br/>Läs mer om oss på"
     design: "Design"
@@ -28,3 +31,9 @@ sv:
   topics:
     '1':
       title: "Delandets ekonomi i Europa börjar nå en kritisk massa."
+      description: "Massvis med idéer som utgår från att dela, peer-to-peer och öppenhet ger via communities nya perspektiv på hur vi producerar och använder oss av resurser och tjänster."
+    '2':
+      title: "Delandets Konsumtion"
+      description: "använder sig av kraften från Internet och peer-to-peet-nätverk för att ge nya perspektiv på hur vi delar, hyr, byter och handlar med varor och tjänster."
+    '3':
+      title: "Tillverkare och Peer Production"

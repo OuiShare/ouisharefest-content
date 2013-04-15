@@ -16,14 +16,18 @@ it:
     location: "Posizione"
     contribute: "Contribuire"
     register: "Biglietti"
-    participate: "Participa"
+    participate: "Partecipa"
   speakers:
     heading: "Speakers e Facilitatori"
   program:
+    professional_days: "Giornate per Professionisti"
+    open_day: "Open Day"
+    thu_and_fri: "Giovedì & Venerdì"
+    sat: "Sabato"
     in_en: "in Inglese"
     in_fr_and_en: "in Francese e Inglese"
   partners:
-    event: "Partners dell'evento"
+    event: "Partners dell'Evento"
     media: "Media Partners"
     program: "Partners di Programma"
     supporters: "Sostenitori"
@@ -32,6 +36,10 @@ it:
     intro: "OuiShare è una comunità globale aperta di persone che lavorano per accelerare il passaggio verso un'economia collaborativa. Siamo imprenditori, progettisti, makers, ricercatori, funzionari pubblici, cittadini e <strong>altro</strong>.<br/>Per saperne di più su di noi"
     design: "Progetto"
     development: "Sviluppo"
+  location:
+    title_first: "Unisciti a noi, al <a href='http://www.cabaretsauvage.com/' target='_blank'>Cabaret Sauvage</a> a Parigi"
+    title_second: "Hai bisogno di aiuto per viaggio e alloggio?"
+    description: "Potete trovare tutto quello che c'è da sapere sul viaggio al OuiShare Fest in questo <a href='http://tiny.cc/fest-travel-post' target='_blank'>blog post</a>"
   about:
     '1':
       title: "Il primo maggior evento Europeo dedicato all'economia collaborativa."
@@ -58,5 +66,10 @@ it:
   tickets:
     first: "I <strong>Giorni 1 e 2</strong> sono dedicati a professionisti e funzionari pubblici"
     second: "Il <strong>Giorno 3</strong> è gratuito e aperto al pubblico"
+    book_tickets: "Prenota il tuo biglietti!"
+    participants: "Chi sta già venendo"
   participate:
     awards_title: "OuiShare Fest Awards"
+    share_title: "Condividi con gli altri partecipanti"
+    visit_community_link: "Guarda di cosa le persone hanno bisogno e cosa possono offrire sulla nostra piattaforma di condivisione di OuiShare Fest"
+    awards_description: "Una serie di premi per onorare progetti e startup dell'economia collaborativa e aumentare la consapevolezza sui <a href='http://ouishare.net/about/our-values/'>valori</a> della comunità OuiShare."

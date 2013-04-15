@@ -643,6 +643,21 @@
       "company_url": "http://www.e-c-c-e.de/",
       "twitter": "Bernd_Fesel"
     },
+    {
+      "name": "Laurent Blanchard",
+      "photo": "http://farm9.staticflickr.com/8538/8652575705_7b592dc2f5_q.jpg",
+      "company": "Yooneed,
+      "company_url": "http://yooneed.com/",
+      "twitter": "Laurentblparis"
+
+    },
+    {
+      "name": "Jean-Christophe Peyssard",
+      "photo": "http://farm9.staticflickr.com/8396/8652571603_fe5efb384f_q.jpg",
+      "company": "OpenEdition",
+      "company_url": "http://www.openedition.org/",
+      "twitter": "Ghaylam"
+    }
 
   ],
     "team": [

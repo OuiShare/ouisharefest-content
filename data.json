@@ -607,6 +607,34 @@
       "company": "Evergreen",
       "company_url": "evrgr",
       "twitter": "fractastical"
+    },
+       {
+      "name": "Paul Bourgine",
+      "photo": "http://farm9.staticflickr.com/8110/8650471257_092307d10e_q.jpg",
+      "company": "CREA",
+      "company_url": "http://www.crea.polytechnique.fr/",
+      "twitter": ""
+    },
+    {
+      "name": "Dominique Boullier",
+      "photo": "http://farm9.staticflickr.com/8099/8650471271_2429aba403_q.jpg",
+      "company": "Science Po/ Medialab",
+      "company_url": "http://www.medialab.sciences-po.fr/fr",
+      "twitter": ""
+    },
+    {
+      "name": "Rémi Sussan",
+      "photo": "http://farm9.staticflickr.com/8108/8651569472_ea0dc5ddd9_q.jpg",
+      "company": "InternetActu",
+      "company_url": "http://www.internetactu.net",
+      "twitter": "remisussan"
+    },
+    {
+      "name": "Albert Cañigueral Bagó",
+      "photo": "http://farm9.staticflickr.com/8398/8651569532_133f735fe1_q.jpg",
+      "company": "OuiShare Spain & LATAM",
+      "company_url": "http://www.ouishare.net/es/",
+      "twitter": "AlbertCanig"
     }
   ],
     "team": [

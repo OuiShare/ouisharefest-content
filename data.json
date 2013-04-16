@@ -657,8 +657,14 @@
       "company": "OpenEdition",
       "company_url": "http://www.openedition.org/",
       "twitter": "Ghaylam"
+    },
+    {
+      "name": "Kim Tjoa",
+      "photo": "http://farm9.staticflickr.com/8251/8654216799_2f83bf14ea_q.jpg",
+      "company": "FLOOW2",
+      "company_url": "www.floow2.com",
+      "twitter": "KimTjoa"
     }
-
   ],
     "team": [
     {
@@ -813,7 +819,7 @@
     },
     {
       "name": "Google",
-      "logo_url": "http://farm9.staticflickr.com/8243/8655110074_5c15380a91_o.png",
+      "logo_url": "http://farm9.staticflickr.com/8113/8654216317_f9c43c2f01_o.png",
       "url": "https://www.google.com"
     }
   ],

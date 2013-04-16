@@ -69,7 +69,8 @@ en:
     book_tickets: "Book your tickets now!"
     participants: "Who's already coming"
   participate:
-    awards_title: "OuiShare Fest Awards"
-    share_title: "Share with other attendees"
     visit_community_link: "See what people need and can offer on our OuiShare Fest sharing platform"
     awards_description: "A series of prizes to honor projects and startups from the collaborative economy and raise awareness for the <a href='http://ouishare.net/about/our-values/'>values</a> of the OuiShare community."
+    labs: "Hack collaborative economy together, during this camp we plan visioning and coding sessions."
+    fabjam: "Join one-day event that brings together fabspaces from all over the world for a creative fab-sprint"
+    tv: "Subscribe to OuiShare TV where we will publish recordings from all the sessions."

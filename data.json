@@ -810,6 +810,11 @@
       "name": "La banque postal",
       "logo_url": "http://farm9.staticflickr.com/8519/8547417797_3848ae3dcb_o.png",
       "url": "https://www.labanquepostale.fr/accueil.html"
+    },
+    {
+      "name": "Google",
+      "logo_url": "http://farm9.staticflickr.com/8243/8655110074_5c15380a91_o.png",
+      "url": "https://www.google.com"
     }
   ],
   "event_partners": [
@@ -1053,6 +1058,11 @@
       "name": "Cookening",
       "logo_url": "http://farm9.staticflickr.com/8389/8653058290_a83d005853_o.png",
       "url": "https://www.cookening.com/"
+    },
+    {
+      "name": "Yooneed",
+      "logo_url": "http://farm9.staticflickr.com/8107/8655110066_d01d4c0a9f_o.png",
+      "url": "http://yooneed.com/"
     }
   ],
   "postale": {

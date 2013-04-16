@@ -934,6 +934,11 @@
       "name": "Ondine",
       "logo_url": "http://farm9.staticflickr.com/8109/8639006017_da4db31b1e_o.png",
       "url": "http://www.agence-ondine.com/"
+    },
+    {
+      "name": "Vision to Reality Foundation",
+      "logo_url": "https://farm9.staticflickr.com/8255/8654962826_6092a02035_m.jpg",
+      "url": "http://www.v2rf.org/"
     }
   ],
   "media_partners": [
@@ -1008,11 +1013,6 @@
       "name": "Sparkfun",
       "logo_url": "http://farm9.staticflickr.com/8251/8549848130_1ba1d417d5_o.png",
       "url": "http://www.sparkfun.com/"
-    },
-    {
-      "name": "Vision to Reality Foundation",
-      "logo_url": "http://farm9.staticflickr.com/8522/8552961240_05472f4caf_o.png",
-      "url": "http://www.v2rf.org/"
     },
     {
       "name": "Ulule",

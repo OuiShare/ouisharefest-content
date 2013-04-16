@@ -69,7 +69,5 @@ et:
     book_tickets: "Osta piletid!"
     participants: "Kes on tulemas"
   participate:
-    awards_title: "OuiShare festivali autasud"
-    share_title: "Jaga teiste osalejatega"
     visit_community_link: "Vaata, mida inimesed OuiShare Festil otsivad ja pakuvad "
     awards_description: "Mitmed auhinnad tunnustamaks koostöömajandust rakendavaid projekte ja idufirmasid ning suurendamaks teadlikkust OuiShare kogukonna <a href='http://ouishare.net/about/our-values/'>väärtustest</a>."

@@ -69,7 +69,5 @@ hu:
     book_tickets: "Megveszem a jegyemet!"
     participants: "Akik már biztos ott lesznek"
   participate:
-    awards_title: "OuiShare Fest Awards"
-    share_title: "Lépj kapcsolatba más résztvevőkkel"
     visit_community_link: "Az OuiShare Fest közösségi oldalon láthatod a többi résztvevő kéréseit és ajánlatait"
     awards_description: "Számos díjat osztunk ki az együttműködő gazdaságot építő projekteknek és start-upoknak akik hozzájárulnak az <a href='http://ouishare.net/about/our-values/'> az OuiShare közösség értékeinek</a> népszerüsítéséhez."

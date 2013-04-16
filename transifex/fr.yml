@@ -69,7 +69,5 @@ fr:
     book_tickets: "Achetez vos tickets dès maintenant !"
     participants: "Qui vient"
   participate:
-    awards_title: "OuiShare Fest Awards"
-    share_title: "Partager avec les autres participants"
     visit_community_link: "Voyez ce que les autres offrent et proposent sur la plateforme de partage dédiée au OuiShare Fest"
     awards_description: "Une série de prix pour honorer les projets et startups de l'économie collaborative et sensibiliser aux <a href='http://ouishare.net/about/our-values/'>valeurs</a> de la communauté OuiShare"

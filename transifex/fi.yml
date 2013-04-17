@@ -9,18 +9,37 @@ fi:
     about: "Tietoa"
     topics: "Aiheet"
     speakers: "Puhujat"
+    facilitators: "Fasilitoijat"
     program: "Ohjelma"
     partners: "Kumppanit"
     team: "Tiimi"
     location: "Sijainti"
     contribute: "Osallistu"
     register: "Ilmoittaudu"
+    participate: "Osallistu"
+  speakers:
+    heading: "Puhujat ja fasilitoijat"
+  program:
+    professional_days: "Maksulliset päivät"
+    open_day: "Ilmainen päivä"
+    thu_and_fri: "Torstai ja perjantai"
+    sat: "Lauantai"
+    in_en: "englanniksi"
+    in_fr_and_en: "ranskaksi ja englanniksi"
   partners:
+    event: "Yhteistyökumppanit"
+    media: "Yhteistyökumppanit (media)"
+    program: "Yhteistyökumppanit (ohjelma)"
+    supporters: "Tukijat"
     invitation: "Mikäli haluat kumppaniksi,<br/>ota yhteyttä<span class='contact'><a href='mailto:contribute@ouisharefest.com'>contribute@ouisharefest.com</a></span>"
   team:
     intro: "<strong>OuiShare on avoin maailmanlaajuinen yhteisö ihmisille, jotka pyrkivät vauhdittamaan siirtymistä yhteistyötalouteen. Olemme yrittäjiä, designereita, tekijöitä, tutkijoita, virkamiehiä ja kansalaisia. </strong><br/>Lisätietoa:"
     design: "Suunnittelu"
     development: "Toteutus"
+  location:
+    title_first: "Tule mukaan <a href='http://www.cabaretsauvage.com/' target='_blank'>Cabaret Sauvageen</a> Pariisissa."
+    title_second: "Tarvitsetko apua matkustuksen ja majoituksen kanssa?"
+    description: "Kaikki olennainen tieto siitä, miten pääset OuiShare Festin tapahtumapaikalle, selviää <a href='http://tiny.cc/fest-travel-post' target='_blank'>tästä blogipostauksesta</a>."
   about:
     '1':
       title: "Euroopan ensimmäinen yhteistyötaloudelle omistettu suurtapahtuma."
@@ -44,3 +63,11 @@ fi:
     '5':
       title: "Avoin tieto"
       description: "luo pohjan kestävän yhteiskunnan rakentamiselle tuomalla julkishallinnon, tieteen, opetuksen, kulttuurin ja talouden lähemmäs kansaa."
+  tickets:
+    first: "<strong>Päivät 1 ja 2</strong> on tarkoitettu ammattilaisille ja virkamiehille"
+    second: "<strong>Päivä 3</strong> on ilmainen ja avoin suurelle yleisölle"
+    book_tickets: "Varaa lippusi nyt!"
+    participants: "Osallistujat"
+  participate:
+    visit_community_link: "Katso mitä osallistujat tarvitsevat ja tarjoavat OuiShare Festing jakamisyhteisössä."
+    awards_description: "Joukko palkintoja, joilla annetaan tunnustusta yhteistyötalouden projekteille ja startup-yrityksille sekä lisätään <a href='http://ouishare.net/about/our-values/'>OuiShare-yhteisön arvojen</a> tunnettuutta."

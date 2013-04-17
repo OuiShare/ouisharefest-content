@@ -69,6 +69,7 @@ en:
     book_tickets: "Book your tickets now!"
     participants: "Who's already coming"
   participate:
+    heading: "Ways You Can Participate"
     share: "Share accommodation, rides, things and more with other attendees on our OuiShare Fest sharing platform"
     awards_description: "A series of prizes to honor projects and startups from the collaborative economy and raise awareness for the <a href='http://ouishare.net/about/our-values/'>values</a> of the OuiShare community."
     labs: "Let's hack the collaborative economy together, with coding and visionary planning sessions"

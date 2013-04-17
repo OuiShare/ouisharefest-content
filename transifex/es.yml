@@ -9,18 +9,37 @@ es:
     about: "Acerca de"
     topics: "Temas"
     speakers: "Ponentes"
+    facilitators: "Facilitadores"
     program: "Programa"
     partners: "Partners"
     team: "Equipo"
     location: "Localización"
     contribute: "Participa"
     register: "Registro"
+    participate: "Participa"
+  speakers:
+    heading: "Ponentes y facilitadores"
+  program:
+    professional_days: "Días para profesionales"
+    open_day: "Día abierto"
+    thu_and_fri: "jueves y viernes"
+    sat: "Sábado"
+    in_en: "en inglés"
+    in_fr_and_en: "en francés e inglés"
   partners:
+    event: "Patrocinadores del evento"
+    media: "Medios patrocinadores"
+    program: "Patrocinadores del programa"
+    supporters: "Simpatizantes"
     invitation: "Si te gustaría convertirte en partner,<br/>por favor contáctanos en <span class='contacto'><a href='mailto:contribute@ouisharefest.com'>contribute@ouisharefest.com</a></span>"
   team:
     intro: "OuiShare es una comunidad abierta y global de personas que trabajan para accelerar el cambio hacia una economía más colaborativa. Somos emprendedores, diseñadores, makers, investigadores, representantes públicos, ciudadanos y <strong>muchos más</strong>.<br/>Descubre más sobre nosotros en"
     design: "Diseño"
     development: "Desarrollo"
+  location:
+    title_first: "Únete en el <a href='http://www.cabaretsauvage.com/' target='_blank'>Cabaret Sauvage</a> de París"
+    title_second: "¿Necesitas ayuda con el viaje y el alojamiento?"
+    description: "Puedes encontrar todo lo que necesites sobre como viajar al OuiShare  Fest en esta <a href='http://tiny.cc/fest-travel-post' target='_blank'>entrada de blog</a>"
   about:
     '1':
       title: "El primer gran evento europeo dedicado a la Economía Colaborativa."
@@ -44,3 +63,16 @@ es:
     '5':
       title: "El Conocimiento Abierto"
       description: "crea las bases para construir sociedades sostenibles por medio de la apertura y la democratización de gobiernos, la ciencia, la educación, la cultura y la economía."
+  tickets:
+    first: "<strong>Los días 1 y 2</strong> están dedicados a profesionales y representantes públicos"
+    second: "<strong>El día 3</strong> es gratuito y abierto al público"
+    book_tickets: "Compra tus entradas ahora!"
+    participants: "¿Quién viene al Fest?"
+    update_profile: "actualiza tu perfil"
+  participate:
+    heading: "Modos de participación"
+    share: "Comparte alojamiento, trayectos, cosas y más con otros asistentes en la plataforma para compartir del OuiShare Fest."
+    awards_description: "Una serie de premios para los proyectos y las startups de la Economía Colaborativa y difundir los  <a href='http://ouishare.net/about/our-values/'>valores</a> de la comunidad OuiShare."
+    labs: "Sigamos hackeando la Economía Colaborativa juntos los días 5-6-7 de mayo trabajando en proyectos de código y visionando ecosistemas futuros "
+    fabjam: "Únete al primer día del evento en el que fabspaces de todo el mundo realizarán un fab-sprint creativo"
+    tv: "Subscríbete a la OuiShare TV para ver las grabaciones de todas las sesiones"

@@ -68,5 +68,6 @@ et:
     second: "<strong>Kolmas päev</strong> on tasuta ja see on avatud kõigile"
     book_tickets: "Osta piletid!"
     participants: "Kes on tulemas"
+    update_profile: "uuenda oma profiili"
   participate:
     awards_description: "Mitmed auhinnad tunnustamaks koostöömajandust rakendavaid projekte ja idufirmasid ning suurendamaks teadlikkust OuiShare kogukonna <a href='http://ouishare.net/about/our-values/'>väärtustest</a>."

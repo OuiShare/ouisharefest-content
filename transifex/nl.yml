@@ -68,5 +68,11 @@ nl:
     second: "<strong>Dag 3</strong> is gratis en open voor het publiek"
     book_tickets: "Boek je kaarten nu!"
     participants: "Wie komt er al"
+    update_profile: "Update je profiel"
   participate:
+    heading: "Manieren om te participeren"
+    share: "Deel accomodaties, ritten, goederen en meer met andere aanwezigen van het OuiShare Fest deel platform"
     awards_description: "Een aantal prijzen om projecten en startups in de collaborative economy te eren en het verhogen van de bewustzijn voor de <a href='http://ouishare.net/about/our-values/'>waarden</a> van de OuiShare community."
+    labs: "Laten we doorgaan met de collaborative economy samen te hacken, werken aan codering projecten en visievorming van toekomstige ecosystemen op 5-6-7 mei"
+    fabjam: "Kom naar onze 1-daagse evenement waar we fabspaces vanuit de hele wereld samen brengen voor een creatieve fab-sprint"
+    tv: "Abonneer je op OuiShare TV om al onze opnames van onze sessies te zien"

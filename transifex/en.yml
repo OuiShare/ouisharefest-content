@@ -66,6 +66,7 @@ en:
   tickets:
     first: "<strong>Days 1 and 2</strong> are dedicated to professionals and public officials"
     second: "<strong>Day 3</strong> is free and open to the public"
+    budget: "Please feel invited to take a look at <a href='http://tiny.cc/ouifest-budget' target='_blank'>detailed budget</a> of this event"
     book_tickets: "Book your tickets now!"
     participants: "Who's already coming"
     update_profile: "update your profile"

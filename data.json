@@ -464,7 +464,7 @@
     },
     {
       "name": "Simon Chignard",
-      "photo": "http://farm9.staticflickr.com/8395/8642166651_3e197aa498_q.jpg",
+      "photo": "http://farm9.staticflickr.com/8113/8659218235_f0c050e8c2_q.jpg",
       "company": "DonnéesOuvertes.info",
       "company_url": "http://DonneesOuvertes.info",
       "twitter": "schignard"
@@ -665,6 +665,62 @@
       "company": "FLOOW2",
       "company_url": "www.floow2.com",
       "twitter": "KimTjoa"
+    },
+    {
+      "name": "Nathalia Nogueira",
+      "photo": "http://farm9.staticflickr.com/8099/8660318456_2cfda9f0dc_q.jpg",
+      "company": "D.Collective Berlin",
+      "company_url": "https://www.facebook.com/d.collective.space",
+      "twitter": ""
+    },
+    {
+      "name": "Jan Goslicki",
+      "photo": "http://farm9.staticflickr.com/8118/8659218327_eb7c032a12_q.jpg",
+      "company": "Bitcoins in Berlin",
+      "company_url": "http://bitcoinsinberlin.com/",
+      "twitter": ""
+    },
+    {
+      "name": "Eva Beritbach",   
+      "photo": "http://farm9.staticflickr.com/8118/8659218365_032200b529_q.jpg",
+      "company": "D.Collective Berlin",
+      "company_url": "https://www.facebook.com/d.collective.space",
+      "twitter": "ebavere"
+    },
+    {
+      "name": "Julien Hering",
+      "photo": "http://farm9.staticflickr.com/8102/8659218319_97527f31dc_q.jpg",
+      "company": "TreeOfScience",
+      "company_url":"http://www.scoop.it/u/julien_hering_phd#curatedTopicsTabSelected"
+      "twitter": "julien_hering"
+    },
+    {
+      "name": "Laurence Bianchini",
+      "photo": "http://farm9.staticflickr.com/8117/8660388586_9a55e1796d_q.jpg
+      "company": "MyScienceWork",
+      "company_url": "http://www.mysciencework.com",
+      "twitter": "bianchiniPhd"
+    },
+    {
+      "name": "Julien Thérier",
+      "photo": "http://farm9.staticflickr.com/8104/8659218299_1c35ee637c_q.jpg",
+      "company": "Shazino",
+      "company_url": "http://www.shazino.com/",
+      "twitter": "julientherier"
+    },
+    {
+      "name": "Paul Richardet",
+      "photo": "http://farm9.staticflickr.com/8109/8660318544_0cb6563494_q.jpg",
+      "company": "Silicon Sentier",
+      "company_url": "http://siliconsentier.org",
+      "twitter": "PaulRichardet"
+    },
+    {
+      "name": "Christophe Ducamp",
+      "photo": "http://farm9.staticflickr.com/8108/8660318530_34a59e84e3_q.jpg",
+      "company": " IndieWebCamp",
+      "company_url": "http://indiewebcamp.com",
+      "twitter": "xtof_fr"
     }
   ],
     "team": [

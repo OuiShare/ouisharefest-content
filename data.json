@@ -1020,6 +1020,11 @@
       "url": "http://ftalphaville.ft.com/"
     },
     {
+      "name": "La Tribune",
+      "logo_url": "http://farm9.staticflickr.com/8264/8673800899_3fe2181c38_o.png",
+      "url": "http://www.latribune.fr/"
+    },
+    {
       "name": "Make Magazine",
       "logo_url": "http://farm9.staticflickr.com/8368/8589225483_b40547bbe4_o.png",
       "url": "http://blog.makezine.com/volume/make-33/"
@@ -1063,7 +1068,13 @@
       "name": "Labkultur",
       "logo_url": "http://farm9.staticflickr.com/8107/8640971050_f78372681d_o.png",
       "url": "http://www.labkultur.tv/"
+    },
+    {
+      "name": "Maddyness",
+      "logo_url": "http://farm9.staticflickr.com/8258/8673810025_d291e50d18_o.png",
+      "url": "http://www.maddyness.com/"
     }
+    
   ],
   "supporters": [
     {
@@ -1130,6 +1141,11 @@
       "name": "Yooneed",
       "logo_url": "http://farm9.staticflickr.com/8107/8655110066_d01d4c0a9f_o.png",
       "url": "http://yooneed.com/"
+    },
+    {
+      "name": "Illidor",
+      "logo_url": "http://farm9.staticflickr.com/8403/8673800921_2e9fcac540_o.png",
+      "url": "http://www.ilidor.com/"
     }
   ],
   "postale": {

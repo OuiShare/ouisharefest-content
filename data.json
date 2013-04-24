@@ -752,8 +752,8 @@
     {
       "name": "Minh-Viet Pham",
       "photo": "http://farm9.staticflickr.com/8380/8675603477_f5961c09d5_q.jpg",
-      "company": "http://www.laposte.fr/",
-      "company_url": "La Poste",
+      "company": "La Poste",
+      "company_url": "http://www.laposte.fr/",
       "twitter": ""
     },
     {

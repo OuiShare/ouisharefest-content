@@ -624,6 +624,13 @@
       "twitter": ""
     },
     {
+      "name": "Åshild Stav",
+      "photo": "http://farm9.staticflickr.com/8535/8676708196_f1971dc1e9_q.jpg",
+      "company": "Stavdesign",
+      "company_url": "http://stavdesign.com/",
+      "twitter": ""
+    },
+    {
       "name": "Rémi Sussan",
       "photo": "http://farm9.staticflickr.com/8108/8651569472_ea0dc5ddd9_q.jpg",
       "company": "InternetActu",
@@ -638,11 +645,25 @@
       "twitter": "AlbertCanig"
     },
     {
+      "name": "Kara Pecknold",
+      "photo": "http://farm9.staticflickr.com/8255/8675604053_163f97e686_q.jpg",
+      "company": "Frogdesign",
+      "company_url": "http://www.frogdesign.com/",
+      "twitter": "karapecknold"
+    },
+    {
       "name": "Bernd Fesel",
       "photo": "http://farm9.staticflickr.com/8249/8644351941_908f6b07b1_q.jpg",
       "company": "European Center for Creative Economy",
       "company_url": "http://www.e-c-c-e.de/",
       "twitter": "Bernd_Fesel"
+    },
+    {
+      "name": "Kat Borlongan",
+      "photo": "http://farm9.staticflickr.com/8385/8676709016_ecb28e9546_q.jpg",
+      "company": "Open Knowledge Foundation",
+      "company_url": "http://okfn.org/",
+      "twitter": "KatBorlongan"
     },
     {
       "name": "Laurent Blanchard",
@@ -785,13 +806,6 @@
       "twitter": ""
     },
     {
-      "name": "Kat Borlongan",
-      "photo": "http://farm9.staticflickr.com/8385/8676709016_ecb28e9546_q.jpg",
-      "company": "Open Knowledge Foundation",
-      "company_url": "http://okfn.org/",
-      "twitter": "KatBorlongan"
-    },
-    {
       "name": "Joel Serra Bevin",
       "photo": "http://farm9.staticflickr.com/8393/8675603731_2bb1cc0e77_q.jpg",
       "company": "Eatwith",
@@ -799,25 +813,11 @@
       "twitter": "papaserrajr"
     },
     {
-      "name": "Åshild Stav",
-      "photo": "http://farm9.staticflickr.com/8535/8676708196_f1971dc1e9_q.jpg",
-      "company": "Stavdesign",
-      "company_url": "http://stavdesign.com/",
-      "twitter": ""
-    },
-    {
       "name": "Elizabeth Roche",
       "photo": "http://farm9.staticflickr.com/8121/8675602933_d59a16be31_q.jpg",
       "company": "Frogdesign",
       "company_url": "http://www.frogdesign.com/",
       "twitter": ""
-    },
-    {
-      "name": "Kara Pecknold",
-      "photo": "http://farm9.staticflickr.com/8255/8675604053_163f97e686_q.jpg",
-      "company": "Frogdesign",
-      "company_url": "http://www.frogdesign.com/",
-      "twitter": "karapecknold"
     },
     {
       "name": "Olivier Tizio",

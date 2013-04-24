@@ -724,9 +724,128 @@
     {
       "name": "Christophe Ducamp",
       "photo": "http://farm9.staticflickr.com/8108/8660318530_34a59e84e3_q.jpg",
-      "company": " IndieWebCamp",
+      "company": "IndieWebCamp",
       "company_url": "http://indiewebcamp.com",
       "twitter": "xtof_fr"
+    },
+    {
+      "name": "Meryl Job",
+      "photo": "http://farm9.staticflickr.com/8528/8676708800_916802a7c1_q.jpg",
+      "company": "VideDressing",
+      "company_url": "http://www.videdressing.com/",
+      "twitter": "meryljob"
+    },
+    {
+      "name": "Francesca Bria",
+      "photo": "http://farm9.staticflickr.com/8389/8675602953_de6272f0a5_q.jpg",
+      "company": "Imperial College London",
+      "company_url": "http://www3.imperial.ac.uk/",
+      "twitter": "fbria"
+    },
+    {
+      "name": "Anthony Deydier",
+      "photo": "http://farm9.staticflickr.com/8521/8676708552_296ea8706c_q.jpg",
+      "company": "La Poste",
+      "company_url": "http://www.laposte.fr/",
+      "twitter": "anthonydeydier"
+    },
+    {
+      "name": "Minh-Viet Pham",
+      "photo": "http://farm9.staticflickr.com/8380/8675603477_f5961c09d5_q.jpg",
+      "company": "http://www.laposte.fr/",
+      "company_url": "La Poste",
+      "twitter": ""
+    },
+    {
+      "name": "Anne De Malleray",
+      "photo": "http://farm9.staticflickr.com/8529/8675564259_5e2b81ffae_q.jpg",
+      "company": "Chronos",
+      "company_url": "http://www.groupechronos.org/",
+      "twitter": "annedemalleray"
+    },
+    {
+      "name": "Linus Olsson",
+      "photo": "http://farm9.staticflickr.com/8117/8675603585_bffc97d60b_q.jpg",
+      "company": "Flattr",
+      "company_url": "http://flattr.com/",
+      "twitter": "bonq"
+    },
+    {
+      "name": "Aldo De Jong",
+      "photo": "http://farm9.staticflickr.com/8527/8676654814_34af929c12_q.jpg",
+      "company": "Claro Partners",
+      "company_url": "http://www.claropartners.com/",
+      "twitter": "Aldorotterdam"
+    },
+    {
+      "name": "François Carbone",
+      "photo": "http://farm9.staticflickr.com/8263/8675602763_430cb33ca7_q.jpg",
+      "company": "Anaxago",
+      "company_url": "https://www.anaxago.com/",
+      "twitter": ""
+    },
+    {
+      "name": "Kat Borlongan",
+      "photo": "http://farm9.staticflickr.com/8385/8676709016_ecb28e9546_q.jpg",
+      "company": "Open Knowledge Foundation",
+      "company_url": "http://okfn.org/",
+      "twitter": "KatBorlongan"
+    },
+    {
+      "name": "Joel Serra Bevin",
+      "photo": "http://farm9.staticflickr.com/8393/8675603731_2bb1cc0e77_q.jpg",
+      "company": "Eatwith",
+      "company_url": "http://eatwith.com/",
+      "twitter": "papaserrajr"
+    },
+    {
+      "name": "Åshild Stav",
+      "photo": "http://farm9.staticflickr.com/8535/8676708196_f1971dc1e9_q.jpg",
+      "company": "Stavdesign",
+      "company_url": "http://stavdesign.com/",
+      "twitter": ""
+    },
+    {
+      "name": "Elizabeth Roche",
+      "photo": "http://farm9.staticflickr.com/8121/8675602933_d59a16be31_q.jpg",
+      "company": "Frogdesign",
+      "company_url": "http://www.frogdesign.com/",
+      "twitter": ""
+    },
+    {
+      "name": "Kara Pecknold",
+      "photo": "http://farm9.staticflickr.com/8255/8675604053_163f97e686_q.jpg",
+      "company": "Frogdesign",
+      "company_url": "http://www.frogdesign.com/",
+      "twitter": "karapecknold"
+    },
+    {
+      "name": "Olivier Tizio",
+      "photo": "http://farm9.staticflickr.com/8384/8675602745_7746c38f02_q.jpg",
+      "company": "Troovon",
+      "company_url": "http://www.troovon.com/",
+      "twitter": "OlivierTIZIO"
+    },
+    {
+      "name": "Antoine van den Broek",
+      "photo": "http://farm9.staticflickr.com/8384/8676708236_eef9f29987_q.jpg",
+      "company": "MUTINERIE COWORKING",
+      "company_url": "http://www.mutinerie.org/",
+      "twitter": "GrandPalabreur"
+    },
+    {
+      "name": "Vanessa Levy",
+      "photo": "http://farm9.staticflickr.com/8379/8676707820_b1a6eaf5ab_q.jpg",
+      "company": "HappyCurious",
+      "company_url": "http://www.happycurious.fr/",
+      "twitter": "VanessaLevy"
+    },
+    {
+      "name": "Nathan Stern",
+      "photo": "http://farm9.staticflickr.com/8396/8676726082_e29acb3261_q.jpg",
+      "company": "Peuplades - Voisins-age",
+      "company_url": "https://www.voisin-age.fr/",
+      "twitter": ""
     }
   ],
     "team": [

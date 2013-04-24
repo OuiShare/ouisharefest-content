@@ -68,5 +68,10 @@ it:
     second: "Il <strong>Giorno 3</strong> è gratuito e aperto al pubblico"
     book_tickets: "Prenota il tuo biglietti!"
     participants: "Chi sta già venendo"
+    update_profile: "aggiorna il tuo profilo"
   participate:
+    heading: "Modalità di partecipazione"
+    share: "Condividi alloggio, spostamenti, oggetti ed altro ancora con gli altri partecipanti sulla nostra piattaforma di condivisione OuiShare Fest"
     awards_description: "Una serie di premi per onorare progetti e startup dell'economia collaborativa e aumentare la consapevolezza sui <a href='http://ouishare.net/about/our-values/'>valori</a> della comunità OuiShare."
+    fabjam: "Partecipa al nostro evento di un giorno che riunisce fabspaces di tutto il mondo per un Fab-sprint creativo"
+    tv: "Iscriviti a OuiShare TV per vedere le registrazioni di tutte le nostre sessioni"

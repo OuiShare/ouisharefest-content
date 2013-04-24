@@ -70,4 +70,7 @@ et:
     participants: "Kes on tulemas"
     update_profile: "uuenda oma profiili"
   participate:
+    heading: "Viisid, kuidas osaleda"
+    share: "Jaga majutust, sõite ja muid asju teiste OuiShare Festi osalejatega"
     awards_description: "Mitmed auhinnad tunnustamaks koostöömajandust rakendavaid projekte ja idufirmasid ning suurendamaks teadlikkust OuiShare kogukonna <a href='http://ouishare.net/about/our-values/'>väärtustest</a>."
+    labs: "5.-7. mail jätkame koostöömajanduse häkkimisega: arendame edasi tarkvaraprojekte ja töötame tulevaste ökosüsteemide visiooni kallal"

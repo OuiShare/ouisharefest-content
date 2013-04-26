@@ -1004,14 +1004,14 @@
       "url": "http://www.drivy.com"
     },
     {
-      "name": "Orange",
-      "logo_url": "http://farm9.staticflickr.com/8260/8640024666_0656425b01_o.png",
-      "url": "http://www.orange.com/"
-    },
-    {
       "name": "Happycurious",
       "logo_url": "http://farm9.staticflickr.com/8092/8552537016_49f171bd59_o.png",
       "url": "http://www.happycurious.fr/"
+    },
+    {
+      "name": "Orange",
+      "logo_url": "http://farm9.staticflickr.com/8260/8640024666_0656425b01_o.png",
+      "url": "http://www.orange.com/"
     },
     {
       "name": "Github",

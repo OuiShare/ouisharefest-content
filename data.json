@@ -645,13 +645,6 @@
       "twitter": "karapecknold"
     },
     {
-      "name": "Bernd Fesel",
-      "photo": "http://farm9.staticflickr.com/8249/8644351941_908f6b07b1_q.jpg",
-      "company": "European Center for Creative Economy",
-      "company_url": "http://www.e-c-c-e.de/",
-      "twitter": "Bernd_Fesel"
-    },
-    {
       "name": "Kat Borlongan",
       "photo": "http://farm9.staticflickr.com/8385/8676709016_ecb28e9546_q.jpg",
       "company": "Open Knowledge Foundation",
@@ -1034,6 +1027,11 @@
       "name": "ESCP Europe",
       "logo_url": "http://farm9.staticflickr.com/8521/8638921091_e2e4e7bc65_o.png",
       "url": "http://www.escpeurope.eu/"
+    },
+    {
+      "name": "La Ruche Qui Dit Oui",
+      "logo_url": "http://farm9.staticflickr.com/8117/8683196742_848e999549_o.png",
+      "url": "http://www.laruchequiditoui.fr/"
     }
   ],
   "program_partners": [

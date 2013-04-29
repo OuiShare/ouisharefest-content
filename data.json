@@ -1256,6 +1256,16 @@
       "name": "Illidor",
       "logo_url": "http://farm9.staticflickr.com/8403/8673800921_2e9fcac540_o.png",
       "url": "http://www.ilidor.com/"
+    },
+    {
+      "name": "Sharypic",
+      "logo_url": "https://farm9.staticflickr.com/8120/8691849423_a2d936f1be_m.jpg",
+      "url": "http://sharypic.com/"
+    },
+    {
+      "name": "Znappit",
+      "logo_url": "https://farm9.staticflickr.com/8263/8692979232_81deb2c0f0_m.jpg",
+      "url": "http://www.znapp.it/"
     }
   ],
   "postale": {

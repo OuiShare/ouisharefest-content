@@ -16,7 +16,7 @@ fr:
     location: "Lieu"
     contribute: "Contribuer"
     register: "S'inscrire"
-    participate: "Participe"
+    participate: "Participer"
   speakers:
     heading: "Intervenants et Modérateurs"
   program:

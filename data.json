@@ -807,6 +807,55 @@
       "company": "HappyCurious",
       "company_url": "http://www.happycurious.fr/",
       "twitter": "VanessaLevy"
+    },
+    {
+      "name": "Clement Marcelet",
+      "photo": "http://farm9.staticflickr.com/8401/8695479648_21175a2537_q.jpg",
+      "company": "Airbnb",
+      "company_url": "https://www.airbnb.com/",
+      "twitter": "ClementMarcelet"
+    },
+    {
+      "name": "Nicolas Chauvat",
+      "photo": "http://farm9.staticflickr.com/8398/8695479666_74cbf72c51_q.jpg",
+      "company": "Logilab",
+      "company_url": "http://www.logilab.fr/",
+      "twitter": "logilab"
+    },
+    {
+      "name": "Samuel Cohen",
+      "photo": "http://farm9.staticflickr.com/8113/8695500882_96e2416a0a_q.jpg",
+      "company": "B2B en Trade",
+      "company_url": "http://www.b2b-en-trade.com/",
+      "twitter": ""
+    },
+    {
+      "name": "Romain Lacombe",
+      "photo": "http://farm9.staticflickr.com/8544/8695479554_020fa3d6e1_q.jpg",
+      "company": "Etalab",
+      "company_url": "http://www.etalab.gouv.fr/",
+      "twitter": "rlacombe"
+    },
+    {
+      "name": "Rich Radka",
+      "photo": "http://farm9.staticflickr.com/8262/8695479638_22737b0598_q.jpg",
+      "company": "Claro Partners",
+      "company_url": "http://www.claropartners.com",
+      "twitter": "richradka"
+    },
+    {
+      "name": "Hervé Pillard",
+      "photo": "http://farm9.staticflickr.com/8394/8695479642_098186dacc_q.jpg",
+      "company": "Sharelex",
+      "company_url": "http://sharelex.org/",
+      "twitter": ""
+    },
+    {
+      "name": "Bruno De Menna",
+      "photo": "http://farm9.staticflickr.com/8406/8694359571_fce3e28ebe_q.jpg",
+      "company": "Sol Violette",
+      "company_url": "http://www.sol-violette.fr/",
+      "twitter": ""
     }
   ],
     "team": [

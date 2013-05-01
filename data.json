@@ -1022,9 +1022,9 @@
       "url": "http://www.airbnb.com"
     },
     {
-      "name": "Leetchi",
-      "logo_url": "http://farm9.staticflickr.com/8526/8518985632_80a69ace5f_o.png",
-      "url": "http://www.leetchi.com/"
+      "name": "Mangopay",
+      "logo_url": "http://farm9.staticflickr.com/8395/8647690665_bbc4a79550_o.png",
+      "url": "http://www.mangopay.com/"
     },
      {
       "name": "BlaBlaCar",
@@ -1301,6 +1301,11 @@
       "name": "Znappit",
       "logo_url": "https://farm9.staticflickr.com/8263/8692979232_81deb2c0f0_m.jpg",
       "url": "http://www.znapp.it/"
+    },
+    {
+      "name": "Videdressing",
+      "logo_url": "https://farm9.staticflickr.com/8263/8692979232_81deb2c0f0_m.jpg",
+      "url": "http://www.videdressing.com/"
     }
   ],
   "postale": {
